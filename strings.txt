@@ -1,0 +1,5395 @@
+Greetings! Your language is only partially-supported. If you want to revert to English, then just press 'English' below!
+Translation Incomplete!
+English
+Frozen Factory
+Dapper Pack
+Skin Pack
+Installed
+Not Installed
+<Multiplayer
+Quit
+World Select
+Create World
+Spacebar
+Resource Level
+Power Level
+Conveyor Speed
+Day/Night Cycle
+Mob Difficulty
+Death Mode
+Rush Mode
+Flatland
+Care Package
+Survival Options
+Seed
+Modes
+Select Mods
+Back
+Mutators
+Enter World
+Reset World
+Creative Mode gives you an unlimited ability to build anything, high-resolution detail blocks, extensive world editing tools, schematics, blueprints and copy-paste systems. It does not feature most of the survival elements, and should not be thought of as a 'cheat mode' for Survival!
+This is an existing Creative world, but, sadly, I don't have cool stats to really show you here. Would you like a picture of a cat instead?
+Mod Management
+Mod Name
+Active
+Version
+Lock
+Status
+Workshop
+Workshop Mod
+Update Pending
+Downloading
+On
+Off
+Locked
+Resources
+Plentiful
+Scarce
+Greg
+Rapid
+Fast
+Slow
+Eternal Day
+Normal
+Eternal Night
+Trivial Mobs
+Normal Mobs
+Hard Mobs
+None
+Clumsy
+Iron Man
+SquishCore
+Hardcore
+Survival
+Creative
+Default settings are set to be super-fast and super-easy for new players! If you want it even FASTER, choose Eternal Day for Day/Night Cycle. If you want more of a challenge, then fiddle with these settings to your heart's content!
+ Remember these settings are LOCKED for the duration of your world and take note of the par times!
+You've been in this Survival world before!
+Play time
+mod selected.
+mods selected.
+Existing Seed
+Plentiful Resources will give you plenty of resources, and will massively accelerate your early and late-game progression. This is a good starting point for patient, beginner players.
+Scarce Resources will give you a slower, more thoughtful game, with plenty of time to explore and optimise your base. Not recommended for beginner players!
+Greg-level Resources will massively reduce your rate of progression. This is balanced for 24/7 dedicated multiplayer servers or VERY patient people!
+Rapid Resources is designed for those in a hurry, with children, jobs, or attempting to stream the game in a weekend! This is also an excellent place if you're looking to learn the game quickly before returning on a harder difficulty.
+Slow Conveyors are well-balanced, and emphasise higher-tier conveyance system. This setting will make your progression greatly slower.
+Fast Conveyors mean less waiting around. They're about twice as fast as Slow.
+Plentiful Power gives greatly improved energy collection from all power generators. This will greatly affect the speed of early-game progress.
+Scarce Power gives a balanced power generation. This will slow down early-game progression.
+Eternal Day means that your Solar collection systems will work constantly and you do not suffer from a temperature drop at night. Choosing this will allow much faster progression - average Solar Collection is 4x faster!
+Normal Day/Night cycle is 24 minutes. For the 12 minutes of darkness you will suffer from extreme temperature drops, increased mob aggression and reduced visibility.
+Eternal Night means no respite from the freezing cold during the day, and no access to non-organic solar technology; including your CPH. This will prove to be a significant challenge.
+This is the default mode. There is no penalty for death, barring low health and a long walk. This makes the game extremely easy, as there's no penalty for any of the exciting ways in which you can die.
+Clumsy mode is recommended if you want a reasonable challenge, and a good reason for not dying! You will drop the contents of your inventory on death!
+NOT FOR BEGINNERS!
+Iron Man is only for the brave, the stupid and the bold; you permanently LOSE your entire inventory on death!
+NOT RECOMMENDED FOR ANYONE!
+ SquishCore is simple; you die, you stay dead
+NOT RECOMMENDED FOR ANYONE!
+ Hardcore is the hardest mode; If you die, or your CPH dies, it's permanent game over! Your CPH also does not heal.
+The Care Package will be unlocked once you have successfully built a Climate Control Centre.
+Care Package disabled.
+Care Package Enabled! This will give you a massive headstart into a new world, giving you a MK3 build gun, larger suit battery, solar panel and a suit heater right at the start. Go get 'em boy.
+Flat Land mode will be unlocked once you have successfully killed a CryoPlasm Spawner.
+Flat Mode disabled.
+Flat Land Enabled! Makes the land flat, hence the name!
+Requires the Frozen Factory Expansion Pack.
+Rush Mode will be unlocked once you have successfully charged an Orbital Energy Transmitter.
+Rush Mode disabled.
+Rush Mode Enabled! This mode challenges you to rebuild another Orbital Energy Transmitter and fully charge it in the minimum amount of time! Selecting this mode will scale up the Power Generation by around 10x and Ore Collection and Smelting are 5x faster. Mobs also spawn much faster too...
+Trivial Mobs is not recommended. Mobs still exist to allow full progression, but will pose no challenge, and this is opting out of a large part of the gameplay. You will get reduced Base Threat and reduced spawn rates on Hiveminds and other base-interfering mobs
+Normal Mobs - this is where it's at. Good choice!
+Hard Mobs - choose this and you will be dealing with much harder, more aggressive mobs. This is ONLY for VERY experienced players!
+Orbital Charge Par time
+Frozen Factory Par time
+hours
+Server Name
+Server Management
+Game Mode
+Dedicated
+Players
+Ping
+Hide Host Address
+Host Address
+Unable to join
+Join
+Edit
+Delete
+Add New
+Mods
+Page
+SERVER NAME
+SERVER MANAGEMENT
+GAME MODE
+HIDE HOST ADDRESS
+HOST ADDRESS
+PLAYERS
+PING
+Iron Bar
+Iron Bars
+MK1 Power Booster
+MK1 Power Boosters
+MK2 Power Booster
+MK2 Power Boosters
+MK3 Power Booster
+MK3 Power Boosters
+MK4 Power Booster
+MK4 Power Boosters
+MK5 Power Booster
+MK5 Power Boosters
+Copper Bar
+Copper Bars
+Lithium Bar
+Lithium Bars
+Chromium Bar
+Chromium Bars
+Molybdenum Bar
+Molybdenum Bars
+Plastic Pellet
+Plastic Pellets
+High Energy Composite Fuel
+Empty Metal Tube
+Empty Metal Tubes
+Empty Fuel Canister
+Empty Fuel Canisters
+High Octane Fuel
+Gold Bar
+Gold Bars
+Tin Bar
+Tin Bars
+Nickel Bar
+Nickel Bars
+Titanium Bar
+Titanium Bars
+Low Grade Steel Bar
+Low Grade Steel Bars
+Steel Ball Bearing
+Steel Ball Bearings
+Power Coil
+Iron Gear
+Iron Gears
+Copper Wire (Old)
+Servo Motor
+Servo Motors
+Lightweight Machine Plate
+Lightweight Machine Plates
+Lightweight Machine Housing
+Lightweight Machine Housings
+Basic Minecart
+Basic Minecarts
+Fast Minecart
+Fast Minecarts
+Large Minecart
+Large Minecarts
+Bulk Minecart
+Bulk Minecarts
+Tour Cart
+Tour Carts
+Copper Wire
+Copper Wires
+Tin Wire
+Tin Wires
+Iron Wire
+Iron Wires
+Lithium Wire
+Lithium Wires
+Gold Wire
+Gold Wires
+Nickel Wire
+Nickel Wires
+Titanium Wire
+Titanium Wires
+Steel Cutter Head
+Crystal Cutter Head
+Organic Cutter Head
+Plasma Cutter Head
+Location Marker
+Glow Stick
+Glow Sticks
+Chargeable Explosive
+Chargeable Explosives
+Blank Ore Ping
+Blank Ore Pings
+Coal Ping
+Coal Pings
+Iron Ore Ping
+Iron Ore Pings
+Copper Ore Ping
+Copper Ore Pings
+Tin Ore Ping
+Tin Ore Pings
+Lithium Ore Ping
+Lithium Ore Pings
+Gold Ore Ping
+Gold Ore Pings
+Nickel Ore Ping
+Nickel Ore Pings
+Titanium Ore Ping
+Titanium Ore Pings
+Crystal Deposit Ping
+Crystal Deposit Pings
+Biomass Ping
+Biomass Pings
+Resin Ping
+Resin Pings
+Chromium Ping
+Chromium Pings
+Molybdenum Ping
+Molybdenum Pings
+Basic Experimental Pod
+Basic Experimental Pods
+Simplified Experimental Pod
+Simplified Experimental Pods
+Intermediate Experimental Pod
+Intermediate Experimental Pods
+Charged Experimental Pod
+Charged Experimental Pods
+Advanced Experimental Pod
+Advanced Experimental Pods
+XL Experimental Pod
+XL Experimental Pods
+Ultimate Experimental Pod
+Ultimate Experimental Pods
+Copper Coil
+Copper Coils
+Tin Coil
+Tin Coils
+Iron Coil
+Iron Coils
+Gold Coil
+Gold Coils
+Lithium Coil
+Lithium Coils
+Nickel Coil
+Nickel Coils
+Titanium Coil
+Titanium Coils
+Copper Plate
+Copper Plates
+Tin Plate
+Tin Plates
+Iron Plate
+Iron Plates
+Gold Plate
+Gold Plates
+Lithium Plate
+Lithium Plates
+Nickel Plate
+Nickel Plates
+Titanium Plate
+Titanium Plates
+Copper Housing
+Copper Housings
+Tin Housing
+Tin Housings
+Iron Housing
+Iron Housings
+Lithium Housing
+Lithium Housings
+Gold Housing
+Gold Housings
+Titanium Housing
+Titanium Housings
+Nickel Housing
+Nickel Housings
+Basic PCB
+Basic PCBs
+Primary PCB
+Primary PCBs
+Hardened PCB
+Hardened PCBs
+Conductive PCB
+Conductive PCBs
+Charged PCB
+Charged PCBs
+Fortified PCB
+Fortified PCBs
+Lightweight PCB
+Lightweight PCBs
+Copper Pipe
+Copper Pipes
+Tin Pipe
+Tin Pipes
+Iron Pipe
+Iron Pipes
+Gold Pipe
+Gold Pipes
+Lithium Pipe
+Lithium Pipes
+Nickel Pipe
+Nickel Pipes
+Titanium Pipe
+Titanium Pipes
+Crystal Fiber Mesh
+Crystal Fiber Meshes
+Crystal Clock
+Crystal Clocks
+Overclocked Crystal Clock
+Overclocked Crystal Clocks
+Basic Cargo Lift
+Basic Cargo Lifts
+Improved Cargo Lift
+Improved Cargo Lifts
+Bulk Cargo Lift
+Bulk Cargo Lifts
+Solar Cell MK1
+Suit Cooler MK1
+Suit Heater MK1
+Suit Headlight MK1
+Suit Headlights MK1
+Suit Power Pack MK1
+Suit Power Packs MK1
+Suit Build Module MK1
+Suit Build Modules MK1
+Suit Collection Module MK1
+Suit Collection Modules MK1
+Suit Insulation MK1
+Suit Insulation Modules MK1
+Build Gun V2
+V2 Build Guns
+Jet Pack
+Jet Packs
+Toxic Particle Filter
+Toxic Particle Filters
+Build Gun V3
+V3 Build Guns
+MK1 Suit Upgrade Module
+MK1 Suit Upgrade Modules
+Suit Power Pack MK2
+Suit Power Packs MK2
+ARTHER Power Core
+ARTHER Power Cores
+ARTHER Solar Panel
+ARTHER Power Panel
+ARTHER Battery Core
+ARTHER Battery Cores
+ARTHER Upgrade Pack
+ARTHER Upgrade Packs
+ARTHER Dapper Hat
+ARTHER Dapper Hats
+ARTHER Dapper Monocle
+ARTHER Dapper Monocles
+ARTHER Dapper Moustache
+ARTHER Dapper Moustaches
+ARTHER Dapper Pack
+ARTHER Dapper Packs
+ARTHER Dapper Upgrade Pack
+ARTHER Dapper Upgrade Packs
+ARTHER Ghost Costume
+ARTHER Ghost Costumes
+ARTHER Skeleton Mask
+ARTHER Skeleton Masks
+ARTHER Pumpkin Mask
+ARTHER Pumpkin Masks
+ARTHER Ghost Mask
+ARTHER Ghost Masks
+ARTHER Goblin Mask
+ARTHER Goblin Masks
+ARTHER Santa Mask
+ARTHER Santa Masks
+SpiderBot Blaster
+SpiderBot Blasters
+SpiderBot Cannon
+SpiderBot Cannons
+SpiderBot Particle Rifle
+SpiderBot Particle Rifles
+Charged Lithium Coil
+Charged Lithium Coils
+Basic Drill Motor
+Basic Drill Motors
+Enhanced Drill Motor
+Enhanced Drill Motors
+Magnetic Drill Motor
+Magnetic Drill Motors
+Fusion Drill Motor
+Fusion Drill Motors
+Antimatter Drill Motor
+Antimatter Drill Motors
+Diamond Focusing Lens
+Diamond Focusing Lenses
+Emerald Focusing Lens
+Emerald Focusing Lenses
+Ruby Focusing Lens
+Ruby Focusing Lenses
+Sapphire Focusing Lens
+Sapphire Focusing Lenses
+Topaz Focusing Lens
+Lentilles de focalisation Topaz =
+Sugalite Focusing Lens
+Sugalite Focusing Lenses
+Crude Organic Lens
+Crude Organic Focusing Lenses
+Organic Lens
+Organic Focusing Lenses
+Exceptional Organic Lens
+Exceptional Organic Focusing Lenses
+Polished Chrome Lens
+Polished Chrome Lenses
+Unfocused Polished Lens
+Unfocused Polished Lenses
+Magnetic Machine Block
+Magnetic Machine Blocks
+Chromed Machine Block
+Chromed Machine Blocks
+Hiemal Machine Block
+Hiemal Machine Blocks
+Alloyed Machine Block
+Alloyed Machine Blocks
+Hardened Machine Block
+Hardened Machine Blocks
+Empty Missile
+Empty Missiles
+Basic Missile
+Basic Missiles
+Armour Piercing Missile
+Armour Piercing Missiles
+Plasma-Imbued Missile
+Plasma-Imbued Missiles
+CryoChilled Missile
+Missiles cryo-accumulés
+Mephitic Missile
+Mephitic Missiles
+Cluster Missile
+Cluster Missiles
+Cryo Bomb
+Cryo Bombs
+Compressed Magma
+Freezon Gas
+FreezonGas
+Compressed Freezon Canister
+CompressedFreezon
+Chlorine Gas
+ChlorineGas
+Compressed Chlorine
+CompressedChlorine
+Sulphuric Gas
+Sulphuric Gasses
+Compressed Sulphur
+Compressed Sulphurs
+Pristine Heavy Chitin
+Ruined Heavy Chitin
+Pristine Light Chitin
+Ruined Light Chitin
+Pristine Stinger
+Pristine Stingers
+Ruined Stinger
+Ruined Stingers
+Pristine Faceted Eye
+Pristine Faceted Eyes
+Ruined Faceted Eye
+Ruined Faceted Eyes
+Pristine Phosphorescent Gland
+Pristine Phosphorescent Glands
+Ruined Phosphorescent Gland
+Ruined Phosphorescent Glands
+Perfect Faceted Eye
+Perfect Faceted Eyes
+Massive Faceted Eye
+Massive Faceted Eyes
+Hive Brain Matter
+Research Parts
+Refined Liquid Resin
+Spoiled Organic Remains
+Recombined Organic Matter
+Air
+None
+Grass
+None
+Rock
+None
+Dirt
+None
+Wooden Planks
+None
+Rubble
+None
+Brick
+None
+TNT
+None
+Trampoline
+None
+Reinforced Wood
+None
+Bedrock
+This dense rock appears to be laced with traces of Iron and Lithium. Searching in the nearby area should yield some useful ore!
+Sand
+None
+Tree Trunk
+None
+Window
+None
+Leaves
+None
+Organic Detritus
+This thick, disgusting mess covers the entire planet.
+Black Grill
+None
+Book Shelf
+None
+Torch
+None
+Snow
+None
+Reinforced Rock
+None
+Reinforced Cobble
+None
+Rough Hewn Rock (Old)
+None
+Iron Box
+None
+Gold Box
+None
+Mithril Box
+None
+Grey Floor Tile
+None
+Red Floor Tile
+None
+Red Brick
+None
+Fallen Leaves
+None
+Field
+None
+Copy Paste
+None
+Electric Light(old)
+None
+Log Wall
+None
+Small Bricks
+None
+Magma
+None
+Plating
+None
+Tiles
+None
+Marble Column
+None
+Wooden Inlay
+None
+Red Canvas
+None
+Blue Canvas
+None
+Green Canvas
+None
+Yellow Canvas
+None
+Orange Canvas
+None
+Purple Canvas
+None
+Flesh Color Canvas
+None
+White Canvas
+None
+Grey Canvas
+None
+Black Canvas
+None
+Plum Canvas
+None
+Marine Canvas
+None
+Brown Canvas
+None
+Beige Canvas
+None
+Indigo Canvas
+None
+Maroon Canvas
+None
+Truss
+None
+My First Flowers
+None
+My First Roof
+None
+My First Brick
+None
+My First Window
+None
+My First Basket
+None
+My First Bookcase
+None
+My First Closet
+None
+My First Wallpaper
+None
+Water
+None
+Space Bubbles
+None
+Space Panel
+None
+Space Grille
+None
+Space Column
+None
+Soft Resin
+None
+Space Hatch
+None
+Space Window
+None
+Space Siding
+None
+Green Light
+None
+Thunder Flash
+None
+Electric Arc
+None
+Rainbow Light
+None
+Red Light
+None
+White Light
+None
+Emergency Light
+None
+Creative Water 1x1
+None
+Creative Water 32x32
+None
+Creative Water 256x256
+None
+Creative Greenscreen 256x256
+None
+Iron Ore
+None
+Lithium Ore
+None
+Gold Ore
+None
+Coal
+None
+Copper Ore
+None
+Tin Ore
+None
+Chromium Ore
+None
+Molybdenum Ore
+None
+Super Hard Rock
+None
+Magmacite
+None
+Uranium
+None
+Lime Yellow Canvas
+None
+Orange Leaves
+None
+Yellow Leaves
+None
+Red Leaves
+None
+White Flowers
+None
+Pink Flowers
+None
+Dyed Marble
+None
+Celtic Knot Tile
+None
+Celtic Braid Pillar
+None
+Celtic Gold Braid Pillar
+None
+Celtic Concrete Pillar
+None
+Celtic Cross
+None
+Celtic Curved Roof
+None
+Celtic Tile Roof
+None
+Celtic Black Braid
+None
+Neon Circuit
+None
+Neon Border
+None
+Neon Grid
+None
+Neon Core
+None
+Ivy
+None
+Metal Siding 1
+None
+GlassBlock
+None
+Chevron Sign
+None
+Drain Grate
+None
+Reinforced Concrete Wall
+None
+Lava
+None
+Scorched Earth
+None
+Metal Siding 2
+None
+Construction Crate
+None
+Bound Wooden Crate
+None
+Bound Metal Crate
+None
+Paper Wrapped Crate
+None
+Wooden Crate
+None
+Grooved Cement
+None
+Old_Gold Ore
+None
+Old_Silver Ore
+None
+Old_Iron Ore
+None
+Present1
+None
+Present2
+None
+Present3
+None
+Present4
+None
+DapperVIP
+None
+DapperFrame
+None
+DapperScale
+None
+DapperWall
+None
+TestDiffuse
+None
+Pumpkin Torch
+None
+Snowman
+None
+Nickel Ore
+None
+Titanium Ore
+None
+Crystal Deposit
+None
+Biomass
+None
+Chevron Danger
+None
+DesertSand
+None
+DesertGrass
+None
+Forest
+None
+Rainforest
+None
+Savanna
+None
+Swampland
+None
+Tundra
+None
+Diamond Crystal
+These low-level crystals can be polished up and used in a variety of lenses and other useful items.
+Emerald Crystal
+These low-level crystals can be polished up and used in a variety of lenses and other useful items.
+Ruby Crystal
+These low-level crystals can be polished up and used in a variety of lenses and other useful items.
+Sapphire Crystal
+These low-level crystals can be polished up and used in a variety of lenses and other useful items.
+Topaz Crystal
+These low-level crystals can be polished up and used in a variety of lenses and other useful items.
+Sugalite Crystal
+These low-level crystals can be polished up and used in a variety of lenses and other useful items.
+Rocket Framework
+None
+Basic Rocket Engine
+None
+Basic Fuel Tank
+None
+Basic Rocket Stabiliser
+None
+Basic Rocket Cargo Hold
+None
+Basic Rocket SRB
+None
+Basic Rocket Nosecone
+None
+Basic Rocket Fin
+None
+Launch Pad
+None
+Orange GlowPod
+This doesn\'t appear to be very useful.
+Blue GlowPod
+This plant seems to thrive in the colder atmosphere. Maybe moving slightly deeper could yield something useful?
+Green GlowPod
+This plant seems to contain strong filters to deal with a toxic atmosphere. Maybe moving slightly deeper could yield something useful?
+Purple GlowPod
+This doesn\'t appear to be very useful.
+GlowShroom
+This doesn\'t appear to be very useful.
+BaubleBerry
+This doesn\'t appear to be very useful yet.
+Mandragora
+Useful for Crude Lenses.
+UnderGrump
+This doesn\'t appear to be very useful yet.
+GoopyDangler
+This doesn\'t appear to be very useful yet.
+CoxComb
+This doesn\'t appear to be very useful yet.
+LeafyDangler
+This doesn\'t appear to be very useful yet.
+Cold Cavern Flora 1
+This plant seems to thrive in the colder atmosphere.
+Cold Cavern Flora 2
+This plant seems to thrive in the colder atmosphere.
+Cold Cavern Flora 3
+This plant seems to thrive in the colder atmosphere.
+Cold Cavern Flora 4
+This plant seems to thrive in the colder atmosphere.
+Cold Cavern Flora 5
+This plant seems to thrive in the colder atmosphere.
+Cold Cavern Flora 6
+This plant seems to thrive in the colder atmosphere.
+Cold Cavern Flora 7
+This plant seems to thrive in the colder atmosphere.
+TundraBreath
+This doesn\'t appear to be very useful yet.
+Toxic Cavern Flora 1
+This plant seems to thrive in the toxic atmosphere.
+Toxic Cavern Flora 2
+This plant seems to thrive in the toxic atmosphere.
+Toxic Cavern Flora 3
+This plant seems to thrive in the toxic atmosphere.
+Toxic Cavern Flora 4
+This plant seems to thrive in the toxic atmosphere.
+Toxic Cavern Flora 5
+This plant seems to thrive in the toxic atmosphere.
+Toxic Cavern Flora 6
+This plant seems to thrive in the toxic atmosphere.
+Toxic Cavern Flora 7
+This plant seems to thrive in the toxic atmosphere.
+Organic Rock
+None
+Electric Light
+None
+Fluid Magma
+None
+Enriched Coal
+None
+Infused Coal
+None
+Halloween Cauldron
+None
+Rough Hewn Rock
+None
+Chilled Cavern Stone
+None
+Toxic Cavern Stone
+None
+Bare Wood Floor
+None
+Bare Wood Floor 2
+None
+MultiShade Brick
+None
+Cement Garden Tile
+None
+Peeling Paint Metal
+None
+Peeling Paint
+None
+Cement Garden Tile 2
+None
+Cement Garden Tile 3
+None
+Cement Garden Tile 4
+None
+Cement Garden Tile 5
+None
+Cement Garden Tile 6
+None
+Cement Garden Block
+None
+Cement Garden Tile 7
+None
+Garden Packed Rocks
+None
+Peeling Paint Wood
+None
+Rounded Roof Shingles
+None
+Rusted Concrete
+None
+Garden Sand
+None
+Stucco Swirl
+None
+Space Warz Hatch1
+None
+Space Warz Hatch2
+None
+Space Warz Siding1
+None
+Space Warz Siding2
+None
+Space Warz Siding3
+None
+Butcherboy Pebbles
+None
+Butcherboy Stones
+None
+Butcherboy Stonewall
+None
+Butcherboy Wood Planks
+None
+Butcherboy Floor Stone
+None
+Up Arrow
+None
+Down Arrow
+None
+Sign
+None
+ConfigurableLight
+None
+Central Power Hub
+Generates a little energy.
+Can burn resources for energy.
+Charges adjacent structures.
+Ore Extractor
+Efficiently extracts ore.
+Stores 25 Ore.
+Extracts 1 Ore/min.
+Power Storage Block
+Stores a little energy.
+Receives energy from other sources.
+Transfers energy to other machines.
+Power Storage MK2
+Stores more energy.
+Receives energy from other sources.
+Transfers energy to other machines.
+Power Storage MK3
+Stores more energy.
+Receives energy from other sources.
+Transfers energy to other machines.
+Organic Power Storage
+Can only transfer energy slowly.
+Storage Hopper
+Stores 100 Items.
+Auto transfers.
+Use E to alter transfer type.
+Logistics Hopper
+Auto transfers 1 item per 10s.
+Mini Hopper
+Auto transfers 1 item per 30s.
+Cryo Hopper
+Keeps items cold. Needs Power. More efficient if placed somewhere cold.
+Motorised Logistics Hopper
+Not implemented because the conveyor belt is the limiting factor, not the hopper. Ooops.
+Solar Panel
+Generates energy in daylight
+Charges adjacent batteries.
+Organic Solar Panel
+Generates a minor amount of energy during the night, from Novalight.
+Charges adjacent batteries.
+Basic Laser Energy Transmitter
+Transmits power slowly over distances.
+Max dist 32.
+Upgrade ASAP.
+Laser Energy Transmitter MK1
+Transmits power over distances.
+Max dist 64.
+Aim at batteries.
+Laser Energy Transmitter MK2
+Transmits even more power!
+Laser Energy Transmitter MK3
+The largest single-block energy transmitter.
+BFL-9000
+Massive Mining Laser.
+Cuts 5x5 tunnel.
+Massive energy demands.
+Pyrothermic Generator
+Burns fuel for energy.
+Burns 1 fuel unit/minute.
+AI Mover Control
+Creates a single AI robot.
+Moves ore between Hoppers.
+Low effort, low efficiency.
+Basic Matter Mover
+Transmits upto 150 items/min at a range of 64m
+Dual Matter Mover
+Transmits upto 300 items/min at a range of 32m
+Quad Matter Mover
+Transmits upto 600 items/min at a range of 16m
+Multi Matter Mover
+Transmits upto 4800 items/min at a range of 4m
+Ore Smelter
+This is your primary method for generating Ingots of resources.
+Basic Ore Smelter
+Double the speed, but less efficient than a normal Smelter. Cannot be upgraded.
+Basic Conveyor Belt
+Slowly transfers materials from Hoppers
+Conveyor Belt
+Transfers materials from Hoppers
+Conveyor Belt Filter
+Removes materials based on rules
+Transport Pipe
+Allows transfer in all directions
+Transport Pipe Filter
+Removes materials based on rules
+Stamper Plant
+Turn Bars into Plates
+Extrusion Plant
+Turn Bars into Wires
+Coiler Plant
+Turns Wires into Coils
+Pipe Extrusion Plant
+Turns Bars into Pipes
+PCB Assembling Plant
+Turns Coils into PCBs
+Conveyor Turntable
+Automatically distributes items
+Advanced Conveyor Filter
+Filters specific items at T2 Pipe speeds
+Up Sloped Conveyor
+Upward sloped, basic speed conveyor!
+Down Sloped Conveyor
+Downward sloped, basic speed conveyor!
+Motorised Conveyor
+Extracts items from a hopper at upto 150 per minute!
+Research Station
+Process scans and research
+technologies. Requires power.
+Forced Induction
+Increases Ore Smelting rate and power usage.
+Place on TOP of Ore Smelters.
+MK2 Forced Induction
+Increases Ore Smelting rate and power usage.
+Place on TOP of Ore Smelters.
+MK3 Forced Induction
+Increases Ore Smelting rate and power usage.
+Place on TOP of Ore Smelters.
+MK4 Forced Induction
+Increases Ore Smelting rate and power usage.
+Place on TOP of Ore Smelters.
+MK5 Forced Induction
+Increases Ore Smelting rate and power usage.
+Place on TOP of Ore Smelters.
+ARC Smelter Upgrade
+Increases Ore Smelting rate and power usage.
+Place on TOP of Ore Smelters.
+Turret MK1
+Good for infrastructure defense.
+Turret MK2
+Good for base defence.
+Turret MK3
+Good for long range defence..
+Auto Excavator
+Automatically dig out large vertical shafts from below.
+Teleporter
+Teleport player to location set by installed Location Marker. Requires lots of power!
+Geological Surveyor
+Ensures your Quarries are correctly placed.
+Manufacturing Plant
+Central automated crafting machine.
+Requires power.
+Basic Manufacturing Plant
+Only allows crafting through automated processing.
+Requires power.
+3D Printer
+Manufacturing Plant module.
+Unlocks 3D Printer recipes when
+attached to Manufacturing Plant.
+Compressor
+Manufacturing Plant module.
+Unlocks Compressor when
+attached to Manufacturing Plant.
+Extruder Module
+Manufacturing Plant module.
+Unlocks Extruder recipes when
+attached to Manufacturing Plant.
+Chip Etcher
+Manufacturing Plant module.
+Unlocks Chip Etcher recipes when
+attached to Manufacturing Plant.
+Hydrojet Cutter
+Manufacturing Plant module.
+Unlocks Hydrojet Cutter recipes when
+attached to Manufacturing Plant.
+Robotic Welder
+Manufacturing Plant module.
+Unlocks Robotic Welder recipes when attached to Manufacturing Plant.
+Incubator
+Manufacturing Plant module.
+Unlocks Incubator recipes when attached to Manufacturing Plant.
+Assembly Station
+Manufacturing Plant module.
+Unlocks Assembly Station recipes when attached to Manufacturing Plant.
+Refinery Controller
+Controls the reaction processes that allow recombining carbohydrates into other forms.
+Refinery Reactor Vat
+The player should not ever be able to read this...
+Jet Turbine Generator
+The player should not ever be able to read this...
+Advanced Machine Block
+Crafting component of tier 3 machinery. Can also be used for construction
+Red Storage Crate
+Simple storage solution.
+Blue Storage Crate
+Simple storage solution.
+Green Storage Crate
+Simple storage solution.
+Yellow Storage Crate
+Simple storage solution.
+Orange Storage Crate
+Simple storage solution.
+Purple Storage Crate
+Simple storage solution.
+Flesh Color Storage Crate
+Simple storage solution.
+White Storage Crate
+Simple storage solution.
+Grey Storage Crate
+Simple storage solution.
+Black Storage Crate
+Simple storage solution.
+Plum Storage Crate
+Simple storage solution.
+Marine Storage Crate
+Simple storage solution.
+Brown Storage Crate
+Simple storage solution.
+Storage Crate
+Simple storage solution.
+Indigo Storage Crate
+Simple storage solution.
+Lime Yellow Storage Crate
+Simple storage solution.
+Maroon Storage Crate
+Simple storage solution.
+Mass Storage Block
+Basic Mass Storage Solution (25 Capacity)
+Basic Mass Storage Input Port
+Use this to insert resources into Mass Storage. Carries 5 resources at a time.
+Mass Storage Input Port
+Use this to insert resources into Mass Storage. Carries 12 resources at a time.
+Bulk Mass Storage Input Port
+Use this to insert resources into Mass Storage. Carries 25 resources at a time.
+Basic Mass Storage Output Port
+Use this to remove resources from Mass Storage. Carries 5 resources at a time.
+Mass Storage Output Port
+Use this to remove resources from Mass Storage. Carries 12 resources at a time.
+Bulk Mass Storage Output Port
+Use this to remove resources from Mass Storage. Carries 25 resources at a time.
+Mass Storage Controller
+Mass Storage Controller for Powered Mass Storage
+Macerator
+Search unused rocks for ore
+ARTHER Charging Station
+Rapidly recharge ARTHER
+Auto Builder
+Automatically upgrade the rank of conveyors
+Deployed Explosive
+Supply power to increase explosion radius
+Laboratory
+Not relevant
+Research Assembler
+None
+Basic Quarry
+Digs a 9 metre big shaft, deep into the surface of the planet.
+Track Straight
+Allows Minecarts to travel in a straight line.
+Track Corner
+Allows Minecarts to travel around corners.
+Track Slope
+Allows Minecarts to travel around up slopes.
+Minecart Buffer
+Turns the Minecart around
+Minecart Full Gate
+Minecarts following the RED arrow will turn around unless FULL. GREEN is freely passable.
+Minecart Empty Gate
+Minecarts following the RED arrow will turn around unless EMPTY. GREEN is freely passable.
+Minecart Depot
+Places a Minecart from an attached Storage Hopper
+Minecart Brake
+Reduce the Minecart\'s speed
+Minecart Turbo Rail
+Increase the Minecart\'s speed
+Minecart Unload Station
+Place resources from Cart into attached Hoppers
+Minecart Load Station
+Place resources on the Cart from attached Hoppers
+ARTHER Turret
+Allows ARTHER to get his murder on.
+Threat Scanner
+Place near your base for an early-warning system.
+Missile Turret MK1
+Single-shot fires missiles at larger targets upto 512m away!
+Missile Turret MK2
+Dual-shot fires missiles at larger targets upto 512m away!
+Missile Turret MK3
+Tri-shot fires missiles at larger targets upto 512m away!
+Missile Turret MK4
+Quad-shot fires missiles at larger targets upto 512m away!
+The Itano
+Multi-shot launcher. The circus is in town!
+Basic Missile Assembler(OLD)
+Crafts Missiles from Fuel, Tubes and Wire.
+Organic Reassembler(OLD)
+Crafts Ruined Organic Components.
+Coal Enricher(OLD)
+Slowly Enriches Coal.
+Orbital Energy Transmitter
+Not relevant
+Auto Upgrader
+None
+T4 Power Storage
+Not relevant
+T5 Power Storage
+Not relevant
+Solar Panel MK2
+Not relevant
+T4 Turret
+Not relevant
+Logic Laser Emitter
+Creative Laser Machine.
+Unimplemented
+Laser AND Gate
+None
+Laser OR Gate
+None
+Laser NOT Gate
+None
+Laser Pressure Pad
+None
+Laser Splitter
+None
+Laser Mirror
+None
+Laser Receptor
+None
+Lift w/underside Piston
+Raises or lowers upto 64m at a rate of 1m/s
+Lift Compressor
+Requires Power.
+Increases compression rate of T1 lifts
+Attach to T1 lifts to use.
+Lift Manual Control Module
+Allow manual override of Lift
+Use Home and End to control!
+Attach to T1 lifts to use.
+MK1 Robot Arm
+Allows simple sorting of items from conveyors.
+Advanced Robot Arm Control Module
+Allows detailed control of the MK1 Robot Arm.
+Alien Tendril Spawn
+None
+Alien Tendril
+None
+Hive Core
+None
+Hardened Resin
+This incredibly hard organic structure appears to be shielding a soft and vulnerable core. Only Nano-Disintegrators will be able to cut through this.
+MobSpawner
+Great for testing defences.
+Insulated Copper Wire
+None
+Track Gate
+None
+Track Terminus
+None
+Track Point
+None
+Track Station
+None
+Threat Agitator
+Generates additional commutative threat.
+Threat Reducer
+Reduces threat substantially.
+Zipper Merge
+Combines 2 lines into 1 with a guaranteed 50:50 ratio.
+3'n1 Zipper Merge
+Rapidly combines 2 lines into 1 in the order RRR L. Use this to make Research Pod assembly a doddle!
+Rapid Zipper Merge
+Rapidly combines 2 lines into 1 with a guaranteed 50:50 ratio.
+Fusion Reactor Pylon
+None
+Fusion Reactor Core
+None
+Fusion Reactor Monitor
+None
+Geothermal Generator
+None
+Heat Conducting Pipe
+None
+MB Ore Extractor Drill
+None
+MB Ore Extractor Motor
+None
+Server Monitor
+Gives you read-time readouts of your server status. Not a \'game\' item.
+Basic Missile Assembler
+Crafts Missiles from Fuel, Tubes and Wire.
+Organic Reassembler
+Crafts Ruined Organic Components.
+Coal Enricher
+Slowly Enriches Coal.
+Plasma Head Charger
+Imbues Steel Heads with energy.
+Pipe Coater
+Creates heat conductive pipes.
+Mesh Weaver
+Weaves meshes from crystal fibers.
+Empty Missile Assembler
+Crafts Empty Missiles from High Energy Composite Fuel, Copper Pipes and Gold Wire.
+Missile Fueller
+Fills Empty Missiles with High Energy Composite Fuel.
+Armour Piercing Warhead Fitter
+Uses Pristine Stingers to fit Armour-Piercing rounds.
+Warhead Imbuer
+Imbues Basic Missiles with Plasma-Enriched energy.
+Lithium Coil Charger
+Imbues 5xLithium Coils with 100 Energy. Use for SpiderBot power, as well as Crafting items.
+Liquid Resin Refiner
+None
+Rack Railer
+Crafts Rack Rails for Cargo Lifts
+MK1 PowerCore Charger
+Autocrafts a single-use Power Booster. This will give ARTHER 100 power. Place the crafted item into your hotbar to use it.
+MK2 PowerCore Charger
+Autocrafts a single-use Power Booster. This will give ARTHER 250 power. Place the crafted item into your hotbar to use it.
+MK3 PowerCore Charger
+Autocrafts a single-use Power Booster. This will give ARTHER 500 power. Place the crafted item into your hotbar to use it.
+MK4 PowerCore Charger
+Autocrafts a single-use Power Booster. This will give ARTHER 1000 power. Place the crafted item into your hotbar to use it.
+MK5 PowerCore Charger
+Autocrafts a single-use Power Booster. This will give ARTHER 2000 power. Place the crafted item into your hotbar to use it.
+Crystal Clock Maker
+Creates a clock made from crystal. Used to keep electronics running at a fixed rate.
+OverClocker
+Uses large amount of power to carefully overclock Crystal Clocks. Used in high-end machines.
+Crystal Coal Infuser
+Infuses Enriched Coal with Crystal Ore.
+Fuel Canister Crafter
+Uses a single Iron Pipe to make an Empty Fuel Canister.
+CryoChilled Missile Assembler
+Uses Freezon Canisters to add a slowing effect to targetted mobs. Also gives 15% extra damage!
+Mephitic Missile Assembler
+Uses Chlorine Canisters to add a damage-over-time effect to targetted mobs, adding 50% damage over 30 seconds.
+Steel Alloy Smelter
+Automatically smelts Low-grade Steel Bars from Iron and Nickel.
+Advanced Machine Block Assembler
+Automatically create Advanced Machine Blocks from Steel and Crystal Clocks.
+Imbued Machine Block Assembler
+Automatically create Imbued Machine Blocks from PowerBoosters and Advanced MachineBlocks.
+Lens Polisher
+Uses precision technology to produce an unfocussed lens from any lower-tier of lens. Can then be chrome-plated to be used in Laser Power Transmitters.
+Lens Chromer
+Mirror-coats a high-precision unfocussed lens to provide a useful upgrade.
+Cryo Bomb Assembler
+Created a bomb specifically designed to be delivered by Bomber FALCORs to defeat large quantities of long-range CryoPlasm.
+Chromed Block Assembler
+Chrome-plates Imbued Machine Blocks.
+Hiemal Block Assembler
+Cold-infuses Chrome and Magnetic Blocks together to create this heat-proof block.
+Magnetic Block Assembler
+Magnetises Imbued Machine Blocks.
+Alloyed Block Assembler
+Uses a Gold to coat Hardened Machine Blocks.
+HardenedBlock Assembler
+Uses a mixture of Nickel and Titanium to create hardened blocks.
+Construction Paste Grinder
+Uses \'garbage\' blocks to make Construction Paste.
+Cluster Missile Crafter
+Turns a single Imbued Missile and turns it into 8 rapid-fire missiles, each doing 1/4 of the original damage, for a total of double the damage.
+ConstructoBot Coppator Chassis Assembler
+Constructs Tier 0 (Coppator) ConstructoBot Chassis.
+ConstructoBot Tindron Chassis Assembler
+Constructs Tier 1 (Tindron) ConstructoBot Chassis.
+ConstructoBot Bronzite Chassis Assembler
+Constructs Tier 2 (Bronzite) ConstructoBot Chassis.
+ConstructoBot Ironide Chassis Assembler
+Constructs Tier 2 (Ironide) ConstructoBot Chassis.
+ConstructoBot Leg Assembler
+Constructs Tier 0 (Coppator) ConstructoBot Legs.
+ConstructoBot Arm Assembler
+Constructs Tier 0 (Coppator) ConstructoBot Arms.
+Blast Furnace
+None
+Continuous Casting Basin
+None
+Casting Pipe (Straight)
+Allows molten metal to flow from Blast Furnace to Continuous Casting Basin
+Casting Pipe (Bend)
+Allows molten metal to flow from Blast Furnace to Continuous Casting Basin
+Refinery Reactor Vat Component
+Contains biochemical reactions under high pressure. Place in a 3x3x3 cube to form a Reactor Vat. Attach a Refinery Controller to operate.
+Jet Turbine Generator Housing
+Burns HEC Fuel to drive a turbine generating lots of power. Build in a 4 by 3 horizontal shape, and build 3 high. Attach an intake to form the front of the machine.
+Jet Turbine Generator Intake
+The Turbine Generator intake is placed at the front of the housing in a 3 by 3 vertical shape.
+Laboratory Component
+Performs automated experiments. Place in a 3x3x3 cube to create a Laboratory.(Needs 27 in total)
+Orbital Energy Transmitter Component
+Use this to beam power off-planet. Place 9 wide by 13 high by 9 deep to form a valid OET.(Needs 1053 in total)
+MK4 Battery Component
+Build in a 3x3x3 configuration for larger storage solutions.(Needs 27 in total)
+Conduit
+Connect T4 batteries at a distance of up to 128 metres at over 10,000 PPS. Build in a 3x3x1 configuration, attached to a T4 PSB.
+MK5 Battery Component
+Build in a 5wx9hx5d configuration for the largest storage solutions.(Needs 225 in total)
+MK2 Solar Panel Component
+Create a 3wx1hx3d Solar Panel. Can ONLY be built on top of high-tier machines.
+T4 Energy Turret component
+Create a 3x3x3 Turret. High Damage, High Energy usage.
+Fusion Reactor Pylon comp.
+Create a pylon as part of a Fusion Reactor configuration. Use the Fusion Reactor Monitor for a build guide.
+Geothermal Generator comp.
+Generates heat through temperature difference. Build in a 5wx3hx5d configuration.
+Trencher Drill component
+Forms the drill head of a Trencher Drill. Build in a 3wx3hx3d configuration in front of a motor. (27 in total)
+Trencher Motor component
+Forms the motor of a Trencher Drill. Build in a 3wx3hx3d configuration in front of a motor. (27 in total)
+Blast Furnace component
+Forms a Blast Furnace. Build in a 3wx7hx3d configuration. (63 in total)
+Casting Basin component
+Forms a Continuous Casting Basin. Build in a 5wx3hx5d configuration. (75 in total)
+Cargo Lift Controller
+Deploys rack rails and allows a cargo lift to operate. Build in a 3x1x3 configuration
+Spiderbot Base Component
+Allows upgrades and recharging of SpiderBot weaponry and items. Build in a 15x1x15 configuration.
+MK2 Organic Solar Component
+Create a 3wx1hx3d Solar Panel. Collects a minimal amount at night.
+Climate Control Centre
+Not relevant.
+Hard Rock Grinder
+A single-use, multiblock machine. Allows you to collect a minimal amount of Chromium or Molybdenum. Build in a 3x1x3 configuration.
+MagmaBore Component
+Cuts an enormous bore down to the magma caverns in order to flood the Cold Caverns with heat. Build in a 33wx3hx33d configuration (3276 total) Needs 8m of initial clearance.
+Particle Filter
+Removes useful particulates from the air. Unlikely to make a long-term permanent difference to the air quality. Build in a 5wx3hx5d configuration. (75 in total)
+Particle Compressor
+Compresses low pressure gas, ready to be stored then bottled. Build in a 3x3x3 configuration.
+Particle Storage
+Stores compressed gas, ready to be bottled. Build in a 3wx7hx3d configuration.(63 in total)
+Gas Bottler
+"Decants compressed gas into useful containers.  Build in a 3x3x9 configuration.(81 in total)"
+Induction Charger
+Not relevant.
+Ore Thief
+Not relevant.
+Magma Storage
+Receives Fluid Magma from appropriate machines via Fluid Pipes.
+Cryo Inferno
+The ultimate solution to the creep. Needs line of sight to an exposed Creep Spawner.
+Garbage Thief
+Not relevant.
+Bar Keeper
+Not relevant.
+Trencher Drill Mk2 component
+Improved Trencher Drill. Builds in the same way as the Mk 1.
+Trencher Drill Mk3 component
+Greatly improved Trencher Drill. Builds in the same way as the Mk 1.
+Auto Organic Thief
+Automatically removed ruined parts from your inventory.
+Laser Borer
+HEFC-powered Laser Boring device. Rapidly creates a 3x3 hole down to the centre of the Cold Caverns. Build in a 3x3x3 shape.
+High Orbital Debris Object Reclaimer
+Allows launching of a missile to knock orbital debris down to the surface. Build in a 3x1x3 configuration.
+Fuel Compressor
+Compresses carbon particulates with High-Energy Composite Fuel to generate an extremely volatile and energy-rich fuel source.
+CargoLiftController
+None
+Rack Rail
+None
+Mass Storage IO Port
+High throughput IO for mass storage
+Basic Mass Storage Stocking Port
+None
+Mass Storage Stocking Port
+None
+Bulk Mass Storage Stocking Port
+None
+Orbital Strike Controller
+Nuke the site from orbit. It\'s the only way to be sure. Requires a fully-charged OET.
+SurfaceHiveSpawn
+None
+Construction Paste
+None
+FALCOR MK1
+Collects Dropped Loot from FALCOR Beacons and returns it.
+Needs attached storage hopper.
+Logistics FALCOR
+Choose item filter
+Collects items from FALCOR Beacons attached to remote Storage Hoppers and returns it.
+Needs attached storage hopper.
+FALCOR Beacon
+None
+SpiderBotBase
+Not relevant
+Laser Resin Ablator
+Converts nearby Hardened Resin into Ablated Resin
+Laser Resin Liquifier
+Converts, collects and destroys nearby Ablated Resin.
+Partially Ablated Resin
+The tough outer coating has been ablated; we should now be able to liquidise the soft inner core.
+Ablated Resin
+The tough outer coating has been ablated; we should now be able to liquidise the soft inner core.
+Liquified Resin
+The resin has now been liquified, and can be collected.
+Cold Creep Spawner
+None
+CryoPlasm
+This incredibly hard organic non-newtonian liquid has been awoken by our Climate Control Centre! We\'ll need specialist weaponry to deal with this!
+Cryoplasm
+This incredibly hard organic non-newtonian liquid has been awoken by our Climate Control Centre! We\'ll need specialist weaponry to deal with this!
+Workfloor Excavator MK1
+Excavates a 3 metre tall workfloor, 16 metres in each direction (33m in total)
+Workfloor Excavator MK2
+Excavates a 3 metre tall workfloor, 16 metres in each direction (33m in total). Uses twice as much power as the MK1, but can cut through ores.
+Workfloor Excavator MK3
+A blazingly-fast catherine wheel of excavation - 4x faster than the MK2s! Will cut through ores.
+Slime Attractor
+Attracts slimes.
+Imbued Machine Block
+Crafting component of tier 4 machinery. Can also be used for construction
+CryoMine
+Explodes with noxious gas when touched by CryoPlasm.
+Bomber FALCOR
+Drops crafted bombs, long range, onto dense creep.
+Freezon Injector
+Utilises Freezon Canisters to provide performance benefits to a number of machines.
+H.E.I.S.T.
+Hopper Emptying Inventory Storage Transporter - Automatically transmits items into the player\'s inventory. H.E.I.S.T. for short.
+NanoDisintegrator
+NanoDisintegrator. Use this to perfectly excavate a 3x3x3 area of even the very hardest material. Use with care.
+Ruined Organic Thief
+Not relevant.
+T4 Power Conduit
+Not relevant
+Cold Cavern Climate Control Centre
+None
+CryoPlasm Lancer
+Short-range, fast, CryoPlasm defence
+CryoPlasm Melter
+Melts CryoPlasm at a medium range. Useful only when paired with other types of defence.
+CryoPlasm 'Dazzler' Turret
+Long-range, fast, CryoPlasm defence. Can only work in straight lines. Requires 250k power to trigger.
+Single-Use Hard Rock Grinder
+Not relevant.
+Magma Bore
+Not relevant.
+Airbone Particulate Extractor
+Not relevant.
+Fluid Pipe (Straight)
+Allows connection of appropriate machines. Can also carry gases.
+Fluid Pipe (Bend)
+Allows connection of appropriate machines. Can also carry gases.
+Airbone Particulate Compressor
+Not relevant.
+Compressed Gas Storage
+Not relevant.
+Compressed Gas Bottler
+Not relevant.
+Compressed Magma Storage
+Not relevant.
+Creep Inferno
+Not relevant.
+LaserBorer
+Not relevant.
+Hard Resin Detector
+Provides an essential early-warning system for encroaching hiveminds.
+Crashed parts container
+Contains technical components we can use for research.
+Chilled Reinforced Rock
+None
+Critter
+None
+Waypoint Machine
+Place this and give power to auto-generate a waypoint. Override the waypoint name by placing an adjacent sign.
+ConstructoBot Direction
+Forces ConstructoBots to head in this direction.
+ConstructoBot Cargo Control
+ConstructoBots with cargo will head in the the direction of the GREEN arrow.
+ConstructoBot Loaded Control
+Full ConstructoBots will head in this direction.
+ConstructoBot Unloaded Control
+Empty ConstructoBots will head in this direction.
+ConstructoBot Power Control
+Low-power ConstructoBots will head in this direction.
+ConstructoBot T-junction
+ConstructoBots will alternate Left/Right on hitting this.
+ConstructoBot Sprayer
+Randomise ConstructoBots paint schemes.
+ConstructoBot Cold Protector
+Applies Cold Protection to ConstructoBots.
+ConstructoBot Charger
+Charges a ConstructoBot.
+ConstructoBot Constructor
+Builds a ConstructoBot from input conveyors with Arm, Body and Legs.
+H.O.D.O.R.
+High Orbital Debris Object Reclaimer allows launching of a missile to knock orbital debris down to the surface. Build in a 3x1x3 configuration.
+Orbital RailGun Controller
+None
+Orbital RailGun Induction Ring
+None
+Hydroponics Bay
+Can grow automated plants. Requires a Canopy.
+Hydroponics Canopy
+Place over a Hydroponics Bay to massively increase it\'s growth speed.
+Adventures Pack DLC
+Thank you for buying the Adventures Pack DLC!
+CRP DLC KEY
+None
+Emergency Siren
+Attach to a machine to monitor it..
+Orange Warning Light
+Attach to a machine to monitor it.
+Red Warning Light
+Attach to a machine to monitor it.
+Warning Strobe
+Attach to a machine to monitor it.
+Organic Solar Panel MK2
+Not relevant
+Glow Tubes
+These massive glowing tubes appear to contain fibres that could be useful.
+Never Visibole
+You should never see this. If you can see this then it is a bug
+Large Rocks
+Large surface rocks containing traces of ore.
+Workshop Placement
+Place in pairs diagonally
+Creates Detail block workshop
+Size 2x2x2 to 8x8x8
+The solar panel collects a modest amount of energy from natural sunlight during the day powering adjacent machines.
+Requires sky clearance.
+Great for topping off low-power devices.
+The solar panel collects a modest amount of energy from natural sunlight during the day powering adjacent machines.
+Delivers constant energy.
+Collects a medium amount of energy during the day. Can only be placed in a flat 3x3 configuration on top of the research lab, refinery or large power storage units.
+Can only be placed on Lab, Refineries and large Batteries!
+Collects a medium amount of energy during the day and a minimal amount at night. This has the same placement restrictions as the regular version.
+Can only be placed on Lab, Refineries and large Batteries!
+Burns resources in attached Hopper to power adjacent machines. Loses efficiency with depth due to poor ventilation. Use Laser Power Transmitters to send power deeper.
+Requires plenty of Oxygen, and cannot be placed underground.
+Transmits power at a very low rate from a generator or battery. Can power a machine, battery or another transmitter. Attach to a wall to send power vertically.
+Maximum range : 64. Upgrade as soon as possible.
+Transmits power at a low rate from a generator or battery up to 64m. Can power a machine, battery or another transmitter. Attach to a wall to send power vertically.
+Maximum range : 64
+Transmits power at a medium rate from a generator or battery up to 64m. Can power a machine, battery or another transmitter. Attach to a wall to send power vertically.
+Tier 2 version transmits more power!
+Transmits power at a high rate from a generator or battery up to 64m. Can power a machine, battery or another transmitter. Attach to a wall to send power vertically.
+The largest single-block energy transmitter.
+Acts as a buffer between power generators and consumers by storing up to 200 power. Adjacent power storage blocks will share power.
+Connect to machines to power them.
+Acts as a buffer between power generators and consumers by storing up to 1,500 power. Adjacent power storage blocks will share power.
+Far denser storage than MK1.
+Acts as a buffer between power generators and consumers by storing up to 5,000 power. Adjacent power storage blocks will share power.
+This is the most efficient single-block PSB.
+A low-tech and easy-to-use way of transferring low power to many machines. Place in a 5x1x5 layout.
+Great for Missile Batteries, Booster Chargers and Resin Refinery setups!
+A handy method of removing ores from your inventory. Place in a 3x3 layout, then stand on it! Requires a small amount of power and an attached Storage Hopper.
+Use this to remove the little bits of Ore that just clog up your inventory.
+A handy method of removing unwanted detritus from your inventory. Place in a 3x3 layout, then stand on it! Requires a small amount of power and an attached Storage Hopper.
+Connect this to a Paste Maker to keep your inventory clean.
+Automatically removes Bars from players when they leave the server. Very little use for single-player, but also works as an Ore Thief, but for bars! Place in a 3x3 layout.
+No time for lazy!
+A handy method of removing unwanted organic parts from your inventory. Place in a 3x3 layout, then stand on it! Requires a small amount of power and an attached Storage Hopper.
+No time for lazy!
+Automatically removes items from adjacent Storage Hoppers and transmits it to player within 5 metres.
+No time for lazy!
+Place this and give power to auto-generate a waypoint. Override the waypoint name by placing an adjacent sign.
+Use this to help stop getting lost.
+Stores up to 270,000 power and must be built in a 3x3x3 configuration (27 total).
+Double Density of T3 batteries!
+Fires upto 10,000 PPS, equalising power between batteries. Do not look directly into beam.
+Do not stand directly in beam.
+Stores up to 4.5 million power and must be built 9m tall with a 5x5 base (225 total). Will not accept power from adjacent power storage blocks.
+Quadruple Density of T3 batteries!
+Acts as a buffer between power generators and consumers by storing up to 8,500 power. Adjacent power storage blocks will share power.
+Slow throughput, enormous capacity.
+Automatically extracts ore from the vein it is attached to. Internal storage capacity can be extended with a Storage Hopper. Requires power. Can be upgraded.
+Connect to Hoppers for automatic storage
+Entry level storage solution. Stores up to 10 resources but transfers very slowly.
+Disperses resources very slowly.
+Entry level storage solution. Stores up to 2 resources but transfers faster than a mini-hopper. Fast enough for a basic Ore Extractor. Consider using in parallel.
+Disperses resources fairly quickly.
+Stores up to 100 resources and transfers quickly. Use to automate other machines. Set permissions appropriately to ensure correct material flow. See handbook entry.
+Can be connected to other machines for automation.
+Low grade heating and lighting.
+Use this to keep your base warm.
+Autocrafts when placed, as long as you have Coal in your inventory.
+Provides a cold blue light, and requires power.
+This casts light in a 180 degree arc.
+Attach to any power-consuming machine for an audio warning if out of power.
+They can also be used on Conveyor Belts and Storage Hoppers.
+Attach to any power-consuming machine for an red glowing light.
+Try not to place too many. It can be annoying.
+Attach to any power-consuming machine for a strobe warning if out of power.
+Try not to place too many. It can be annoying.
+Attach to any power-consuming machine for a strobe warning if out of power.
+Try not to place too many. It can be annoying.
+Use this to remind yourself exactly what you meant to do.
+Thank you to the Patreons for donating to get this live!
+A slightly stronger wall for your base.
+Caution : Uses up 16 Paste!
+A slightly stronger wall for your base.
+Caution : Uses up Wooden Planks!
+A weak window, has wooden frames
+Uses up wooden planks!
+Useful for looking into the guts of your base
+It's seethrough!
+Use this to mark off dangerous areas.
+Caution : Uses up 1 Constructionpaste!
+Use this to mark off dangerous areas.
+Caution : Uses up 1 Constructionpaste!
+Decorative wooden blocks. This can also be crafted under the self-craft menu (C)
+Pretty!
+White canvas, can be painted using the paint gun (N).
+Caution : Uses up 1 Constructionpaste!
+Red canvas for decorating our base.
+Caution : Uses up 1 Constructionpaste!
+Blue canvas for decorating our base
+Caution : Uses up 1 Constructionpaste!
+Green canvas for decorating our base
+Caution : Uses up 1 Constructionpaste!
+Smelts ore into bars. Can be operated manually or automated using input and output Storage Hoppers. See the handbook for more information. Can be upgraded.
+T2 item - use the one at your base to start with!
+Smelts ore into bars. The Basic Smelter is twice as fast and uses half the power of the regular Smelter, but cannot be upgraded with Forced Induction modules. See the handbook for more information.
+Upgrade to a regular Ore Smelter as soon as possible.
+Place on top of a regular smelter to increase speed by 200% but power usage by 800%. Does not support Basic Smelters.
+Power Usage increased by 8x
+Place on top of a regular smelter to increase speed by 300% but power usage by 1,600%. Does not support Basic Smelters.
+Power Usage increased by 16x
+Place on top of a regular smelter to increase speed by 400% but power usage by 3,200%. Does not support Basic Smelters.
+Power Usage increased by 32x
+Place on top of a regular smelter to increase speed by 400% but power usage by 3,200%. Increases Smelter collection rate by 2x!
+This doubles the collection rate of the Smelter. Not useful on Rapid mode.
+Place on top of a regular smelter to increase speed by 400% but power usage by 3,200%. Increases Smelter collection rate by 4x!
+This quadruples the collection rate of the Smelter. Not useful on Rapid mode.
+Place on top of a regular smelter to allow smelting of T4 ores. DECREASES speed by 400%. Power increase usage : Unknown.
+Use this to build your first Continuous Casting Basin.
+Basic energy-based defence. Range of 16m. Requires power.
+Do not place on top of your Ore Smelter!
+Improved energy-based defence. Range of 20m, increased damage. Requires power.
+Place on top of your Ore Smelter if you want.
+Long-range energy-based defence. Range of 72m. Slow firing but high damage. Requires power.
+Upgrade your MK2 turrets to this with rewards from the waves.
+High damage missile defense system. Will only target large enemies. Ammunition must be manufactured and stored in an adjacent Storage Hopper. Has a minimum range of 64m.
+Capable of launching all types and grades of missiles.
+Provides an early warning system. Estimates the threat generated by your base and time until next attack.
+Use multiples to triangualate the source of danger.
+Provides an early warning report on nearby growing Hardened Resin clusters.
+Doesn't need power; just check on it once in a while!
+Uses Rotting organic parts to attract nearby lifeforms.
+Useful for traps.
+Allows you to monitor the server. Also gives readouts about permissions and other fun things.
+Sorry about your 4th wall.
+Uses a small amount of power to reduce your base's threat. Use this for a respite from attacks whilst you develop your base.
+Does not work whilst Orbital Energy Transmitter is online!
+Uses a modest amount of power to increase your base's threat. Use this to obtain more Organic Loot!
+Each one increases threat by 10% and adds 5 mobs per wave
+Slow method of transferring materials between Storage Hoppers. No power required. Open conveyors are susceptible to attack and extreme temperatures.
+Slow but efficient to craft.
+Used for transferring materials between Storage Hoppers. No power required.
+Open conveyors are susceptible to attack and extreme temperatures.
+Used to transport items up slopes. Almost twice as fast as a conveyor belt. Thanks Pythagoras!
+Vulnerable to extreme cold!
+Used to transport items down slopes. Almost twice as fast as a conveyor belt. Thanks Pythagoras!
+Vulnerable to extreme cold!
+Automatically rotates after transferring items. Avoid placing adjacent to Storage Hoppers or other turntables. Use to split conveyor lines.
+Use to split conveyor lines.
+Attach to a Storage Hopper to allow types of material entering the conveyor network.
+Place between hoppers and conveyors.
+Attach to a Storage Hopper to insert specific materials to your logistics network.
+Allows you to choose a single specific item to remove from a Hopper.
+Attach to a Storage Hopper and give power to saturate the fastest of transport systems!
+Needs 5 power per item. Face away from the Storage Hopper.
+Combines 2 lines into 1 with a guaranteed 50:50 ratio.
+Connect directly to conveyor belts. Only works if both sides are supplied with material.
+Rapidly combines 2 lines into 1 with a guaranteed 50:50 ratio. Much faster than a standard Zipper Merge.
+Connect directly to conveyor belts. Only works if both sides are supplied with material.
+Rapidly combines 2 lines into 1 in the order RRR L. Use this to make Research Pod assembly a doddle!
+Connect directly to conveyor belts. Only works if both sides are supplied with material.
+Fast but expensive method of transferring materials between Storage Hoppers. No power required.
+Unaffected by extreme cold and less susceptible to attack.
+Attach to a Storage Hopper to limit the type of material entering a transport pipe network.
+Can be used on walls and ceilings.
+Beams a resources from an attached Storage Hopper to another up to 64m away. Requires line of sight. Place on a wall to transmit vertically. Fast but power hungry.
+Quick transfer, high energy cost.
+Beams resources from an attached Storage Hopper to another up to 32m away, 2 at a time. Peak Performance : 150/min
+Fast transfer, high energy cost.
+Beams resources from an attached Storage Hopper to another up to 16m away, 4 at a time. Peak Performance : 600/min
+Extreme Transfer, high energy cost.
+Beams resources from an attached Storage Hopper to another up to 8m away, 32 at a time. Peak Performance : 4800/min.
+Fastest transfer rate, high energy cost.
+Automatically moves resources between hoppers based on hopper permissions.
+Cheap and nasty, but reliable* 
+*Not that reliable really.
+This machien has been mothballed and is no longer supported.
+Mark off a 32m area for FALCORs to automatically collect loot from. Requires power.
+Ideal for Wasp drops!
+Automatically collects marked loot from FALCOR Beacons within 256m. Requires attached Storage Hopper.
+Ideal for Wasp drops!
+Automatically collects items from FALCOR Beacons mounted on Storage Hoppers.
+Ideal for low-throughput, long-distance logistics.
+Automatically delivers CryoBombs to distant CryoPlasm.
+Bombs need to be in attached Storage Hoppers.
+Auto-crafts CryoBombs.
+Bombs need to be in attached Storage Hoppers.
+Conveyor-based machine for automatically converting Bars into plates. Does not require external power or Hoppers.
+Tin Plates are extensively used in many machines./
+Conveyor based machine for automatically converting metal bars into wires. Does not require external power or Storage Hoppers.
+Copper Wire are extensively used in many machines.
+Conveyor based machine for automatically converting metal wires into coils. Does not require external power or Storage Hoppers.
+Lithium Coils can be charged into a useful crafting material.
+Conveyor based machine for automatically converting metal coils into PCBs. Does not require external power or Storage Hoppers.
+PCBs are used in many electronic components.
+Uses a mixture of Nickel and Titanium to create essential Alloyed blocks.
+These are used extensively, and it is highly recommended you automate these!
+Converts useless garbage into Construction Paste. All aesthetic blocks use construction paste!
+Pretty.
+Gold-plates Hardnened Blocks into Alloyed Blocks.
+These are used extensively, and it is highly recommended you automate these!
+Conveyor based machine for automatically converting metal bars into pipes. Does not require external power or Storage Hoppers.
+Pipes are used to transfer fluid materials to other locations.
+A simple way to create empty fuel canisters.
+Fuel Canisters are used to power your mid-tier bases!
+Automatically manufactures empty missiles. Requires power and attached Storage Hoppers containing ingredients. Outputs missiles to an attached Storage Hopper.
+These missiles will need fuelling before they're useful!
+Automatically fuels empty missiles. Requires power and attached Storage Hoppers containing ingredients. Outputs missiles to an attached Storage Hopper.
+These missiles are ready to launch!
+Adds Armour-Piercing Warheads to missiles
+Just to get that extra Punch you need to take down Heavy mobs.
+Takes Basic Missiles and 50,000 energy to imbue with even more energy.
+These energy-infused missiles are Boss-killers.
+Turns a single Imbued Missile and turns it into 8 rapid-fire missiles, each doing 1/4 of the original damage, for a total of double the damage.
+These are the highest craft of missiles available.
+Takes Imbued Missiles and adds 50% damage-over-time.
+These missiles are ready to launch!
+Takes Imbued Missiles and adds a massive slowing effect.
+These missiles are ready to launch!
+Imbues Lithium Coils with Energy. Feed into the SpiderBot Upgrade and Recharge Dock via a Storage Hopper.
+Lithium Coils are used in many recipes.
+Uses large amounts of energy to Ablate the surface of Hardened Resin, allowing it to be liquified and then refined.
+Excellent for clearing out dead hiveminds for useful material.
+Uses large amounts of energy to access the soft core of a Hardened Resin block, once it's been Ablated. Attach to a storage hopper.
+Excellent for clearing out dead hiveminds for useful material.
+Converts Liquid Resin into the extremely useful Refined Liquid Resin.
+Used in a number of high-end organic recipes.
+Upgrade module for the Manufacturing Plant, allows the manufacture of suit upgrades. Must be placed on top of the Manufacturing Plant.
+Snow is found high up. Why do people keep asking me where to find Snow?
+Increases the efficiency of your suit's solar panels. Only one required and must be carried in inventory.
+Suit Item! You only need 1!
+Increases suit heating power protecting you from extreme cold. Only one required and must be carried in your inventory.
+Suit Item! You only need 1.
+Doubles your suit's power capacity. Only one required and must be carried in your inventory.
+Suit Item! You only need 1!
+Quadruples your suit's power capacity. Only one required and must be carried in your inventory.
+Suit Item! You only need 1!
+Converts ALL previous suit upgrades into an super-duper All In One (tm) Suit Upgrade. Perfick.
+Suit Item! You only need 1!
+Reduces the power drain of your suit's headlamp. Only one required and must be carried in your inventory.
+Suit Item! You only need 1
+Can dig through more materials than your starting build gun. Can dismantle Ore Smelters and Manufacturing Plants.
+Suit Item! You only need 1!
+This bad boy can cut through hard ores AND remove large areas in a single action.
+Suit Item! You only need 1!
+Crafting this allows your suit to filter out dangerous and hallucinogenic toxins from the atmosphere.
+Use this to progress past the poison-spore filled caverns.
+Allows the use of jet thrust to fly over short ranges. Uses large amounts of power. Activate with 'J'.
+Suit Item! You only need 1!
+A single one of these will be able to upgrade, repair and re-arm your SpiderBot. Build in a 15x15 square. Requires 225 in total.
+Setting up an assembly line for the SpiderBot Core Charger will make your life much easier!
+Rapid fire, low-slung energy-based weapon. Ideal for small to medium targets.
+Once constructed, place in a hopper adjacent to the SpiderBot Upgrade Dock.
+Slow-firing, powerful area damage cannons. Capable of targeting high and low; specialises in medium targets.
+Once constructed, place in a hopper adjacent to the SpiderBot Upgrade Dock.
+Rapid fire, shoulder-mounted energy weapon. Ideal for taking down the very largest of attackers.
+Once constructed, place in a hopper adjacent to the SpiderBot Upgrade Dock.
+A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.
+Connect multiple crates together to increase available inventory space.
+A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.
+Connect multiple crates together to increase available inventory space.
+A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.
+Connect multiple crates together to increase available inventory space.
+A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.
+Connect multiple crates together to increase available inventory space.
+A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.
+Connect multiple crates together to increase available inventory space.
+A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.
+Connect multiple crates together to increase available inventory space.
+A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.
+Connect multiple crates together to increase available inventory space.
+A simple wooden crate that can store a small amount of items. Cannot be automated. Multiple crates can be connected together to increase storage space.
+Connect multiple crates together to increase available inventory space.
+Use to create Steel Bars.
+Automation is king!
+Common component for advanced machinery.
+Used for high-grade T3 machinery.
+Common component for advanced machinery. Uses 4 Advanced Machine Blocks and a single MK5 Power Booster.
+Used for high-grade T3 machinery.
+Common component for advanced machinery.
+Used for low-grade T4 machinery.
+Common component for advanced machinery.
+Used for mid-grade T4 machinery.
+Common component for advanced machinery.
+Uesd for the highest grade of T4 machinery.
+Process Biomass into useful products. See the handbook for more information.
+Must be connected to a Refinery Reactor Vat to operate.
+Refinery Reactor Vat component. Must be built in a 3x3x3 configuration (27 total). Requires an attached Refinery Controller.
+Place in a 3 by 3 by 3 configuration to form a valid Reactor Vat.
+Housing component for a Jet Turbine Generator. Burns HEC Fuel to drive a turbine generating lots of power. Build 3 high with a 4x3 base.
+Build in a 4 by 3 horizontal shape, and build 3 high, using 36 blocks in total. Attach an intake to form the front of the machine.
+Sucks in large amounts of air for the turbine. Place in front of the housing 3m high and 3m wide.
+The Turbine Generator intake is placed at the front of the housing in a 3 by 3 shape, using 9 blocks in total.
+Fixes the damage to ARTHER allowing him to move reliably. Only one required and must be carried in your inventory.
+All suit items can be kept in your Suit Inventory, leaving room for crafting ingredients and resources.
+Allows ARTHER to hold 8x more charge which he can transfer to you when you run low. 
+Only one required and must be carried in your inventory.
+Improves the rate at which ARTHER regenerates power from sunlight. Only one required and must be carried in your inventory.
+Allows ARTHER to collect power faster whilst on the surface.
+Gives the effect of the Solar Panel, Core and Battery. Use this to save inventory space.
+Use this to save room in your inventory.
+Insert 'moustache ride' joke here. Only works if you have the Dapper Indie Supporter DLC.
+Only works if you have the Dapper Indie Supporter DLC.
+Keep ARTHER looking Dapper AND dry! Only works if you have the Dapper Indie Supporter DLC.
+Only works if you have the Dapper Indie Supporter DLC.
+Improves ARTHER vision! Only works if you have the Dapper Indie Supporter DLC.
+Only works if you have the Dapper Indie Supporter DLC.
+Fully Dapper! Use this to save room in your inventory.
+Use this to save room in your inventory.
+Fully Upgraded - Fully Dapper! Use this to save room in your inventory.
+Use this to save room in your inventory.
+Allows ARTHER to charger rapidly! Requires Power.
+Press [TAB] to access the ARTHER control menu.
+Remember those baubleberries you macerated? You'll want some of those.
+Dooo-OOOOO-ooooot!
+Uses Orange Glow pods to provide a nice orange glow.
+Oooo-OOOOO-ooooo!
+Take one of each of the other masks create the ultimate ghost mask!
+Dootdoot.
+Uses Green Glow pods to provide a nice green glow.
+Dooo-OOOOO-ooooot!
+He knows when you've been naughty, but, you bought the Dapper DLC, so clearly you're nice!.
+Now I have a machine gun. Ho. Ho. Ho.
+WHAT TERROR LURKS BENEATH THE CLOTH OF DOOM???
+Answer : It's ARTHER.
+Defensive turret which will only operate when manned by ARTHER. High range of 64m and low power requirement. Ideal for early conveyor defense!
+This is an ideal device to cover 128m of conveyors. Hint hint.
+Allows clearing of CryoPlasm at a very short range. Useful for keeping stray tendrils at bay.
+This is a basic turret; use it in conjunction with more advanced weaponry.
+Allows rapid melting of CryoPlasm into fluid form at a medium range. Useful for guiding CryoPlasm into killboxes.
+Excellent when paired with a Dazzler turret.
+Automatically-detonating Chlorine Mines allow you to keep areas clear of CryoPlasm.
+Don't. Breath. It. In. Ok?
+Allows clearing of CryoPlasm at a very long range. Useful for reducing the central bulk of the attacks.
+Build in a 3x3x3 layout.
+Insert into an Ore Extractor to improve collection speed to 200% at the cost of increased power usage.
+Upgrading Ore Extractors is more efficient than building more.
+Insert into an Ore Extractor to improve collection speed to 400% at the cost of increased power usage.
+Upgrading Ore Extractors is more efficient than building more.
+Insert into an Ore Extractor to improve collection speed to 800% at the cost of increased power usage.
+Upgrading Ore Extractors is more efficient than building more.
+Insert into an Ore Extractor to improve collection speed to 1,600% at the cost of increased power usage.
+Should not be used on brittle ores.
+Insert into an Ore Extractor to improve collection speed to 3,200% at the cost of increased power usage.
+Should not be used on brittle ores.
+Insert into an Ore Extractor to improve efficiency to 20% reducing the amount of ore wasted. Wears out slowly. Also allows the harvesting of tougher materials.
+Higher efficiency means an Extractor can last longer on an ore vein. It does not increase extraction speed.
+Insert into an Ore Extractor to improve efficiency to 30% reducing the amount of ore wasted. Wears out quickly. Also allows the harvesting of tougher materials.
+The Crystal head is more efficient, but wears out quicker.
+Insert into an ore Extractor to improve efficiency to 50% reducing the amount of ore wasted. Wears out quickly. Also allows the harvesting of tougher materials.
+The Organic head is more efficient, but wears out quicker.
+Insert into a Laser Power Transmitter to increase speed by 15 PPS.
+These are most efficient placed in low-tier LETs.
+Insert into a Laser Power Transmitter to increase speed by 30 PPS.
+These are most efficient placed in low-tier LETs.
+Insert into a Laser Power Transmitter to increase speed by 60 PPS.
+These are most efficient placed in low-tier LETs.
+Insert into a Laser Power Transmitter to increase speed by 100 PPS.
+These are most efficient placed in low-tier LETs.
+Insert into a Laser Power Transmitter to increase speed by 150%.
+These are most efficient placed in mid-tier LETs.
+Insert into a Laser Power Transmitter to increase speed by 200%.
+These are most efficient placed in high-tier LETs.
+Insert into a Laser Power Transmitter to increase speed by 25%.
+These are most efficient placed in mid-tier LETs.
+Insert into a Laser Power Transmitter to increase speed by 100%.
+These are most efficient placed in mid-tier LETs.
+Insert into a Laser Power Transmitter to increase speed by 250%.
+These are most efficient placed in high-tier LETs.
+Bevelled gear, used in various motors and joints.
+It's more efficient to automate crafting of this.
+Empty fuel canister. Be green - recyle where possible!
+Be green - recyle after use!
+Accurate and fast motor.
+It's more efficient to automate crafting of this.
+A small metal box, used in lightweight objects.
+It's more efficient to automate crafting of this.
+An inefficient way of making these blocks. Automation can be more efficient than manually crafting. Hint hint.
+These are used extensively, and it is highly recommended you automate these!
+An inefficient way of making these blocks. Automation can be more efficient than manually crafting. Hint hint.
+These are used extensively, and it is highly recommended you automate these!
+Mass Storage Facility. Place on a horizontal plane. Use I/O ports to access the contents!
+Unlimited Storage. Use I/O ports to access the contents!
+Inserts items from a conveyor into the Mass Storage Facility. Inserts 5 of the same item; pre-sorting can massively increase efficiency.
+Unlimited Storage. Use I/O ports to access the contents!
+Inserts items from a conveyor into the Mass Storage Facility. Inserts 12 of the same item; pre-sorting can massively increase efficiency.
+Unlimited Storage. Use I/O ports to access the contents!
+Inserts items from a conveyor into the Mass Storage Facility. Inserts 25 of the same item; pre-sorting can massively increase efficiency.
+Unlimited Storage. Use I/O ports to access the contents!
+Stocks a specified quantity of an item in mass storage.
+Prevents clogging your mass storage crates with one item type!
+Stocks a specified quantity of an item in mass storage.
+Prevents clogging your mass storage crates with one item type!
+Stocks a specified quantity of an item in mass storage.
+Prevents clogging your mass storage crates with one item type!
+Removes the specified type of item from the Mass Storage Facility. Removes 5 per trip.
+Unlimited Storage. Use I/O ports to access the contents!
+Removes the specified type of item from the Mass Storage Facility. Removes 12 per trip.
+Unlimited Storage. Use I/O ports to access the contents!
+Removes the specified type of item from the Mass Storage Facility. Removes 25 per trip.
+Unlimited Storage. Use I/O ports to access the contents!
+Powers Mass Storage IO Ports.
+Unlimited Storage. Use I/O ports to access the contents!
+Powered by Mass Storage Controller.
+Unlimited Storage. Use I/O ports to access the contents!
+Macerator crushes and disposes of unwanted rock. Has a small chance to produce ore. Requires a Storage Hopper for any ore found.
+This machine is Conveyor-In, Storage-Hopper-Out.
+Automatically digs a large vertical shaft. Only digs upwards. Requires power.
+Does not affect ores.
+Automatically digs a 33m wide, 3m tall circle.
+Does not affect ores.
+Automatically digs a 33m wide, 3m tall circle.
+Does affect ores.
+Automatically and rapidly digs a 33m wide, 3m tall circle.
+Does affect ores.
+Places items from attached Storage Hopper along cardinal directions. Requires power.
+Why build your own conveyor lines when a machine can do it for you?
+Upgrades existing Conveyor Lines to a higher tier. Requires power and attached storage hopper containing new conveyors. See handbook for more restrictions.
+A massive time-saver!
+Manufacturing Plants allow automated crafting and building. Requires V2 Build Gun to move!
+Requires V2 Build Gun to move!
+Stores a location. Use in machines that require a target such as the teleporter. See the handbook for more information.
+Selecting the marker on your hotbar will show its stored location
+Supply a location marker and enough power to allow teleporting. Jump while on top to activate.
+Jump on top of the device to activate!
+Supply power to increase explosion radius. Keeps charge when picked up. For safety we recommend you avoid charging near anything important.
+Requires charging with power before use!
+A single-use machine, capable of destroying anything it's placed on. USE WITH EXTREME CARE.
+USE-WITH-EXTREME-CARE.
+A consumable item that generates an ore ping without power cost. Combine with an Ore in the Self-Crafting (C) menu to create specific ore pings.
+Combine with an Ore in the Self-Crafting (C) menu to create specific ore pings.
+A consumable item that generates an ore ping that will only show Coal Ore without power cost.
+None
+A consumable item that generates an ore ping that will only show Iron Ore without power cost.
+None
+A consumable item that generates an ore ping that will only show Copper Ore without power cost.
+None
+A consumable item that generates an ore ping that will only show Tin Ore without power cost.
+None
+A consumable item that generates an ore ping that will only show Lithium Ore without power cost.
+None
+A consumable item that generates an ore ping that will only show Gold Ore without power cost.
+None
+A consumable item that generates an ore ping that will only show Nickel Ore without power cost.
+None
+A consumable item that generates an ore ping that will only show Titanium Ore without power cost.
+None
+A consumable item that generates an ore ping that will only show CrystalDeposit without power cost.
+None
+A consumable item that generates an ore ping that will only show Biomass Growth without power cost.
+None
+A consumable item that generates an ore ping that will only show Hardened Resin without power cost.
+None
+A consumable item that generates an ore ping that will only show Chromium ore without power cost.
+None
+A consumable item that generates an ore ping that will only show Molybdenum ore without power cost.
+None
+Slow and efficient vertical transport. Can be upgraded using Lift Compressors.
+Can be upgraded using Lift Accelerators.
+Attach to the base of the lift to allow manual control of the lift.
+Can be upgraded using Lift Accelerators.
+Attach to the base of the lift to improve lift performance. Requires power.
+Can be upgraded using Lift Accelerators.
+Automatically moves a specified type of ore between conveyors.
+Use this to organise your ore conveyors.
+Copper-based housing.
+Use to house low-level items safely.
+Gives a report on available resources beneath the surveyor. Use to determine the best place for your Quarry!
+Use to determine the best place for your Quarry!
+Returns all resources found whilst excavating the shaft.
+Also returns all the dirt and rock...
+Used to place Minecarts onto Tracks from an attached Storage Hopper.
+There is no hint for this.
+Removes material from Minecarts into attached Storage Hoppers.
+Very fast!
+Places material into Minecarts from attached Storage Hoppers.
+Very fast!
+A simple straight track piece.
+None
+Allows Minecarts to go around corners. Can be rotated.
+Press R to rotate
+Allows Minecarts to go up or down.
+Or down.
+Speeds up Minecarts that pass over it. Doesn't require power today. May do so tomorrow.
+Very fast!
+Minecarts hitting this will perform a 180 degree turn.
+Or down.
+Minecarts following the RED arrow will turn around unless FULL. GREEN is freely passable.
+Use this to airlock minecarts where you want them.
+Minecarts following the RED arrow will turn around unless EMPTY. GREEN is freely passable.
+Use this to airlock minecarts where you want them.
+Slow Minecart with 25 Storage Capacity. Multiple minecarts can run on one track. Build as many as required.
+Upgrade these to higher versions when possible.
+Fast Minecart with 25 Storage Capacity. Multiple minecarts can run on one track. Build as many as required.
+These are best when you have hilly terrain.
+Slow Minecart with 50 Storage Capacity. Multiple minecarts can run on one track. Build as many as required.
+These are best when you have flat terrain.
+Fast Minecart with 50 Storage Capacity.
+The best T4 can give!
+Super-Fast Minecart with 0 Storage Capacity.
+Press U to ride!
+Forces ConstructoBots to head in this direction.
+None
+ConstructoBots with cargo will head in the the direction of the GREEN arrow.
+None
+Full ConstructoBots will head in this direction.
+None
+Empty ConstructoBots will head in this direction.
+None
+ConstructoBots will alternate Left/Right on hitting this.
+None
+Sprays ConstructoBots a random colour (for now).
+None
+Sprays ConstructoBots with a material that allows operation in the Cold Caverns. Requires SOMETHING_COLD.
+None
+Fully-charges ConstructoBots. Requires Power.
+None
+Assembles Coppator ConstructoBot Chassis.
+None
+Assembles Tindron ConstructoBot Chassis.
+None
+Assembles Bronzite ConstructoBot Chassis.
+None
+Assembles Ironide ConstructoBot Chassis.
+None
+Assembles T0 Coppator ConstructoBot Legs.
+None
+Assembles T0 Coppator ConstructoBot Arms.
+None
+Constructs a machine that can Construct ConstructoBots.
+None
+Build in a 3x1x3 shape above a 3x3 shaft to automatically deploy into a lift.
+Requires Power and RackRails.
+Crafts Rack Rails from Iron Bars, used in the automation of Cargo Lift rails.
+Cargo Lifts are awesome.
+Deploy in a Cargo Lift Controller. Affectionately referred to as Lifty McLiftFace.
+This isn't even the final form.
+1000 capacity lift with a maximum speed of 10 metres per second. Deploy in a Cargo Lift Controller.
+Can be upgraded later.
+3000 capacity lift with a maximum speed of 10 metres per second. Deploy in a Cargo Lift Controller.
+This is the best lift currently available.
+Automatically assemble Research Pods. Requires power and attached Hoppers containing metal plates and PCBs. See handbook for more info.
+Use to unlock Projects!
+Use this to transmit power to your Orbital Space station. Must be built 13 tall with a 9x9 base (1053 total).
+This is is built in a 9x13x9 shape.
+Use this to clear out surface attacks. Place near the enemy base.
+Only works if you have a fully-charged OET!
+Use this to Research advanced Projects with Experiments. Must be built in a 3x3x3 configuration. See the handbook for more information on research.
+The Laboratory is built in a 3x3x3 shape.
+A decorative metal truss
+Uses up Construction Paste!
+A decorative golden block - thank you for supporting FortressCraft!
+Requires the Dapper DLC pack!
+A decorative golden block - thank you for supporting FortressCraft!
+Requires the Dapper DLC pack!
+A decorative golden block - thank you for supporting FortressCraft!
+Requires the Dapper DLC pack!
+A decorative golden block - thank you for supporting FortressCraft!
+Requires the Dapper DLC pack!
+Black cats optional
+Requires the Dapper DLC pack!
+Worst lighting ever.
+Requires the Dapper DLC pack!
+Will not melt, even if exposed to Magma.
+Don't have the Dapper DLC pack? You'll have to let this go.
+Thank you to ButcherBoyToma for going above and beyond in support of this game.    Want to help?      www.patreon.com/FortressCraft
+Want to help? http://www.patreon.com/FortressCraft
+Thank you to Tarakesh : "Awesome Games are worth every cent you pay for...  ;-)" www.patreon.com/FortressCraft
+Want to help? http://www.patreon.com/FortressCraft
+Thank you to Herp21 : "Has grooves in all the right places!" www.patreon.com/FortressCraft
+Want to help? http://www.patreon.com/FortressCraft
+Thank you to Fartex : "Not as hard as the game is good." www.patreon.com/FortressCraft
+Want to help? http://www.patreon.com/FortressCraft
+Thank you to Nexus : "If (mDonation > $100) AddShinyNewBlock();//I need to take a break from coding" www.patreon.com/FortressCraft
+Want to help? http://www.patreon.com/FortressCraft
+Thank you to TadForever: "All mistakes have their uses." www.patreon.com/FortressCraft
+Want to help? http://www.patreon.com/FortressCraft
+Thank you to MKMarq : "Luxurious materials for surviving in style!" www.patreon.com/FortressCraft
+Want to help? http://www.patreon.com/FortressCraft
+Used in a number of useful receipes.
+Ruined Parts must be kept cold!
+Used in a number of useful receipes.
+Ruined Parts must be kept cold!
+Used in a number of useful receipes.
+Ruined Parts must be kept cold!
+Used in a number of useful receipes.
+Ruined Parts must be kept cold!
+Used in a number of useful receipes.
+Ruined Parts must be kept cold!
+Used in a number of useful receipes.
+Ruined Parts must be kept cold!
+Used in a number of useful receipes.
+Ruined Parts must be kept cold!
+Stores up to 50 resources. Uses power to keep stored items frozen. This can vastly extend the length of Ruined Organic Parts.
+If placed somewhere cold, it requires much less power.
+Feed 10x Ruined Organic Parts to this and receive a single Recombinated Organic Component.
+Recombinated Organic Components can be used to Self-Craft Pristine Organic Components.
+Convert a Macerator using glands from Wasps and Slimes to give double the energy from burning coal. Requires no resources once built; just give it a little power!
+Gives a near-2x gain in coal burning.
+Converts a Macerator using Crystal clocks to further enhance Enriched Coal with Crystal Deposits, doubling the energy output once again.
+Gives a near-4x gain in coal burning.
+Uses large amounts of power to imbue standard Steel Cutter Heads with plasma-based energy.
+Gives a quadruple rate on the Ore Extractor, but the charge disappears after 2000 ore is returned.
+The Cold Cavern Climate Control Centre should start to terraform the Cold Cavern we have found into a hospitable area. All T4 support machines will require this machine to work. 175 needed in total.
+Build in a 5w x 7h x5d configuration.
+Forms the drill head of a Trencher Drill. Build in a 3wx3hx3d configuration in front of a motor.
+Effectiveness depends on vein exposure to the drill
+Forms the drill head of a Trencher Drill. Build in a 3wx3hx3d configuration in front of a motor.
+Effectiveness depends on vein exposure to the drill
+Forms the drill head of a Trencher Drill. Build in a 3wx3hx3d configuration in front of a motor.
+Effectiveness depends on vein exposure to the drill
+Forms the motor of a Trencher Drill. Build in a 3wx3hx3d configuration behind a drill head.
+Accepts power and outputs ore for the drill.
+Geothermal Power. Place in a cold area, and feed with Heat Conductant Pipes. Build in a 5x3x5 configuration. (75 total)
+Makes a lot of power.
+This turns liquid metal into bars at a high rate. Capable of dealing with Chromium and Molybdenum. Build in a 5x3x5 configuration.  (75 total)
+Attach to 4 Blast Furnaces for maximum efficiency.
+This turns raw ore into liquid slag at a high rate. Capable of dealing with Chromium and Molybdenum. Build in a 3x7x3 configuration.
+Use Pipes to connect this.
+Use this to connect your Blast Furnaces to your Continous Casting Basin.
+Use Pipes to connect this.
+Use this to connect your Blast Furnaces to your Continous Casting Basin.
+Use Pipes to connect this.
+Crafts Crystal Fiber Mesh.
+No hint.
+Crafts Heat Conductant Pipe, used in the GeoThermal Power Plant.
+No hint.
+This will allow us to slowly and inefficient grind T4 ores. With these new ore, we can build new machines! Build in a 3x1x3 configuration.
+SINGLE-USE MACHINE!
+Removes useful particulates from the air. Build in a 5x3x5 configuration (75 total).
+Unlikely to make a long-term permanent difference to the air quality.
+Compresses and cools low-pressure gas, ready to be stored then bottled. Build in a 3x3x3 configuration (27 total).
+This machine can have 4 Filtration Units attached to it.
+Stores compressed gas, ready to be bottled. Build in a 3x7x3 configuration (63 total).
+This machine can have 4 Compressor Units attached to it.
+Decants compressed gas into useful containers. Build in a 3x3x9 configuration (81 total).
+Any attached Storage Hoppers will receive the compressed gasses.
+Used to connect various machines together. Use Self-Craft to convert into a bend.
+If it doesn't light up, it's probably in the wrong place!
+Used to connect various machines together.
+If it doesn't light up, it's probably in the wrong place!
+Digs a very, very, very big hole, then pours magma through it. Build in a 33x3x33 configuration. (3267 in total)
+Magma - better than it sounds.
+Stores Magma and pumps it to a CryoPlasm Inferno via Fluid Pipes. Build in a 3x7x3 configuration.
+Magma - better than it sounds.
+Uses pumped Magma to burn out CryoPlasm Spawners within range. Build in a 3x3x3 configuration.
+The Inferno needs 15 minutes of burn time with a maximum interruption time of 30 seconds. Good luck.
+Attach to a Storage Hopper to inject Compressed Freezon into compatible machines.
+Look in the handbook for a list of compatible machines and the effects.
+Uses HEFC to super-charge a BFL mining laser to create 3x3 vertical shafts extremely quickly. Feed HEFC via attached Storage Hopper. Build in a 3x3x3 shape.
+Warning! Dangerous! Ensure it is placed correctly before feeding fuel.
+Crafts a machine capable of auto-crafting single-use Power Booster. The Power Booster will give ARTHER power. Place the crafted item into your hotbar to use it.
+Remember, Chargers put power into Boosters!
+Auto-crafts a single-use Power Booster. The Power Booster will give ARTHER power. Place the crafted item into your hotbar to use it.
+Remember, Chargers put power into Boosters!
+Auto-crafts a single-use Power Booster. The Power Booster will give ARTHER power. Place the crafted item into your hotbar to use it.
+Remember, Chargers put power into Boosters!
+Auto-crafts a single-use Power Booster. The Power Booster will give ARTHER power. Place the crafted item into your hotbar to use it.
+Remember, Chargers put power into Boosters!
+Auto-crafts a single-use Power Booster. The Power Booster will give ARTHER power. Place the crafted item into your hotbar to use it.
+Remember, Chargers put power into Boosters!
+Makes clocks, made from crystal.
+Useful manfuacturing component, used in many mid-tier recipes.
+Overclocks existing Crystal Clocks to a higher frequency, using lots of power to do so.
+Useful manfuacturing component, used in many high-tier recipes.
+Uses precision technology to produce an unfocussed lens from any lower-tier of lens. Can then be chrome-plated to be used in Laser Power Transmitters.
+It is recommended to polish all lower-tiers of lenses.
+Mirror-coats a high-precision unfocussed lens to provide a useful upgrade.
+Useful manfuacturing component.
+Massive horizontal mining laser used to bore out straight tunnels 5 by 5 meters across. Massive energy demands.
+Use to bore out straight tunnels
+Composites Coal Ore and High Energy Composite Fuel into High Octane Fuel. Build in a 3x3x3 layout.
+Use to bore out straight tunnels
+The High Orbital Debris Object Reclaimer (or H.O.D.O.R) can be used to knock orbital debris out of the atmosphere for our use. Build in a 3x1x3 configuration.
+Ensure sky clearance. Like really. REALLY you want skyclearance. I mean it. Big baddaboom.
+This 9x9x9 machine will automatically digistruct a 1 kilometre track. WHEN BUILT IT CANNOT BE REMOVED. THINK VERY CAREFULLY BEFORE BUILDING.
+The launch area is 5x5x1000. This is not a typo.
+Copper wires are wound into Copper coils usable for crafting.
+None
+Tin wires are wound into Tin coils usable for crafting.
+None
+Iron wires are wound into Iron coils usable for crafting.
+None
+Lithium wires are wound into Lithium coils usable for crafting.
+None
+Gold wires are wound into Gold coils usable for crafting.
+None
+Nickel wires are wound into Nickel coils usable for crafting.
+None
+Titanium wires are wound into Titanium coils usable for crafting.
+None
+Copper bars are extruded into Copper wires usable for crafting.
+None
+Tin bars are extruded into Tin wires usable for crafting.
+None
+Iron bars are extruded into Iron wires usable for crafting.
+None
+Lithium bars are extruded into Lithium wires usable for crafting.
+None
+Gold bars are extruded into Gold wires usable for crafting.
+None
+Nickel bars are extruded into Nickel wires usable for crafting.
+None
+Titanium bars are extruded into Titanium wires usable for crafting.
+None
+Copper coils are converted into Basic PCBs usable for crafting.
+None
+Tin coils are converted into Primary PCBs usable for crafting.
+None
+Iron coils are converted into Hardened PCBs usable for crafting.
+None
+Lithium coils are converted into Charged PCBs usable for crafting.
+None
+Gold coils are converted into Conductive PCBs usable for crafting.
+None
+Nickel coils are converted into Fortified PCBs usable for crafting.
+None
+Titanium coils are converted into Lightweight PCBs usable for crafting.
+None
+Copper bars are extruded into Copper pipes usable for crafting.
+None
+Tin bars are extruded into Tin pipes usable for crafting.
+None
+Iron bars are extruded into Iron pipes usable for crafting.
+None
+Lithium bars are extruded into Lithium pipes usable for crafting.
+None
+Gold bars are extruded into Gold pipes usable for crafting.
+None
+Nickel bars are extruded into Nickel pipes usable for crafting.
+None
+Titanium bars are extruded into Titanium pipes usable for crafting.
+None
+Raw plastic in pellet form suitable for crafting.
+None
+Solid fuel containing oxydizer. Highly volatile. Usable as jet turbine fuel or for small rockets.
+None
+Copper plates and basic PCBs are assembled into Basic Experimental Pods for use in research projects.
+None
+Tin plates and primary PCBs are assembled into Simplified Experimental Pods for use in research projects.
+None
+Iron plates and Hardened PCBs are assembled into Intermediate Experimental Pods for use in research projects.
+None
+Lithium plates and Charged PCBs are assembled into Charged Experimental Pods for use in research projects.
+None
+Gold plates and Conductive PCBs are assembled into Advanced Experimental Pods for use in research projects.
+None
+Nickel plates and Fortified PCBs are assembled into XL Experimental Pods for use in research projects.
+None
+Titanium plates and Lightweight PCBs are assembled into Ultimate Experimental Pods for use in research projects.
+None
+Copper bars are refined Copper usable for crafting.
+None
+Tin bars are refined Tin usable for crafting.
+None
+Iron bars are refined Iron usable for crafting.
+None
+Lithium bars are refined Lithium usable for crafting.
+None
+Gold bars are refined Gold usable for crafting.
+None
+Nickel bars are refined Nickel usable for crafting.
+None
+Titanium bars are refined Titanium usable for crafting.
+None
+Chromium bars are refined Chromium usable for crafting.
+None
+Molybdenum bars are refined Molybdenum usable for crafting.
+None
+Copper bars are stamped into Copper plates usable for crafting.
+None
+Tin bars are stamped into Tin plates usable for crafting.
+None
+Iron bars are stamped into Iron plates usable for crafting.
+None
+Lithium bars are stamped into Lithium plates usable for crafting.
+None
+Gold bars are stamped into Gold plates usable for crafting.
+None
+Nickel bars are stamped into Nickel plates usable for crafting.
+None
+Titanium bars are stamped into Titanium plates usable for crafting.
+None
+Power
+Drill Stuck
+Offline Warning
+can't dig.
+Fit a better drill head!
+Drill stuck. {0} can't dig {1}. 
+ Fit a better  drill head!
+Searching for Ore...
+Click Icon to retrieve
+Next
+in
+Next {0} in {1}s.
+Total stored: 
+Drill Rate
+Durability
+ore per minute
+Demand
+PPS
+Power per Second
+Efficiency
+Work Efficiency
+(Q to Reset)
+Average PPS
+Economy Drill Motor
+Standard Cutter Head
+Add Power
+Click icon to Upgrade
+speed
+Mining
+Out of Power
+Out of Storage
+Upgrade Drill Head
+Next Ore
+Clearing Vein
+Can't Find Ore
+Suggested Guide
+Eligible Research Project
+Completed Research Project
+Selected Block
+Selected in Hotbar
+Output of Ore Extractor
+Ingredient in Ore Smelter
+Resource
+Selected Machine
+Selected Recipe
+Highlighted in Hotbar
+Highlighted in Inventory
+Highlighted in Storage Crate
+Unknown Materials
+Output of Ore Smelter
+Installed Lift
+Completed Scan
+Everything a new player needs to know.
+Extensive details on living to see tomorrow.
+Scan and Research to unlock new tech.
+A complete list of the game's controls.
+Join the wider FortressCraft community.
+Useful videos on more advanced topics.
+The aliens are fighting back!
+Everything you need to know about your equipment.
+The Lab performs high-end research.
+Research Pods are key to unlocking new tech.
+Spoilers ahead. But have a look if you're stuck!
+(R)otate the LPT towards the PSB!
+Place Laser Transmitter
+Place Storage Hopper
+Place Hoppers next to Ore Smelter.
+Set Smelter Hopper to Add-Only.
+Set Smelter Hopper to Remove-Only
+Minecart derailed!
+Place Ore Extractor on Copper Ore.
+Find Copper Ore with Ping Unknown.
+Use Scanner(M) to Find Copper Ore
+Place Ore Extractor on Tin Ore.
+Find Tin Ore with Ping Unknown.
+Use Scanner(M) to Find Tin Ore
+Extract or Smelt Lithium.
+Extract or Smelt Nickel.
+Extract or Smelt Gold.
+Extract or Smelt Titanium
+Extract Crystal Ore.
+Extract and refine Biomass.
+Automate Smelter Output.
+Automate Smelter Input.
+Mission Report preparing...
+PTG starved of Oxygen!
+Smelter starved of Oxygen!
+Build a Pyrothermic Generator
+No ore extracted in the last minute!
+No bars smelted in the last minute!
+Build 8 Laser Power Transmitters!
+Fit Faster Motors to Ore Extractors!
+CPH lacking resources!
+Build Ore Extractors!
+Build more Ore Extractors!
+Test the Grappling Hook (F)
+Test the GlowSticks (G)
+Watch the Video Tutorials (H)
+Use Left-Ctrl to Superbuild!",
+Incoming orbital debris detected!
+Orbital debris impact detected!
+Critical Research : Suit Upgrades.
+Critical Research : Assembly Line Machines.
+Fit a MK1 Solar Cell to your suit.
+Critical Research : Mining Upgrades.
+Place your Forced Induction Kit.
+Build a Forced Induction Kit.
+Critical Research : Automation.
+Build an Ore Thief.
+Build a Threat Scanner.
+Build Research Assembler.
+Critical Research : Laboratories.
+Build a 3x3x3 Laboratory!
+Extract or Smelt Iron.
+Find Iron Ore with Ping Unknown.
+Use Scanner(M) to Find Iron Ore
+Travel Deeper to locate Iron Ore.
+Critical Research : Local Life Forms.
+Critical Research : Base Defence.
+Build Defence Turrets.
+Critical Research : SpiderBot.
+Build a SpiderBot Base!
+SpiderBot Low on Power!
+Fit SpiderBot Under-Blasters!
+Fit SpiderBot Cannons!
+Fit SpiderBot Particle Rifle!
+Lab Research : Upgraded Power.
+ARTHER demands a Charge Station.
+Build a Slime Attractor.
+Build an Induction Charger!
+Locate : Hardened Resin.
+Locate : Soft Resin.
+Explore remote surface for Organic Rock.
+Search for nearby Organic Rock.
+Search for Organic Rock.
+Locate : Surface Organic Rock.
+Critical Research : Resin Handling.
+Build a Hard Resin Detector.
+Upgrade your LPTs with Lenses 
+Fit a Suit Heater.
+Traverse the Cold Caverns.
+Construct Cargo Lifts for T2 lifting.
+Critical Research : Alloys.
+Build Solar Panels.
+Build FALCORs!
+Build FALCOR Beacons!
+Improve FALCOR Network!
+ items on the ground! FALCORs needed!
+Critical Research : Hydrocarbons.
+Build Refinery.
+Build a Jet Turbine.
+Build Orbital Energy Transmitter!
+Overminds left to destroy!
+Charge Orbital Energy Transmitter!
+Game Complete! Purchase Expansion Pack!
+Locate : Chromium.
+Locate : Molybdenum.
+Terraform the Cold Cavern.
+Reminder
+Rush Mode
+Press (H) to open the Handbook.
+Recommended Research : Aesthetics.
+Press N to select the Paintgun!
+Paint an Aesthetic Block!
+Place
+All
+PTGs inactive
+inactive PTGs.
+has started clearing.
+Ore Extractors are offline!
+Crystal Ore extractor offline
+min
+extractor offline!
+offline
+out of power
+out of storage
+drill stuck
+vein depleted
+ Conveyors
+Place at least
+ more Conveyors.
+more Torches for warmth!
+Scan
+more unknown objects.
+scans to Process.
+Lab
+finished current research!
+finished
+Laboratory has
+You won't get rubble if you SuperDig! Hold Left-Ctrl to SuperDig!
+Unknown block detected... 
+Press M to switch to Ore Scanner! 
+Warning! No Ore extracted in the last minute!
+Warning! No Coal burned in the last minute!
+Press K to examine the Holobase.
+LOCATED!
+Warning! One of our 
+ veins has been exhausted and has started clearing
+We need to build Ore Extractors!
+Ore Extractors have issues!
+Warning! Smelter detected attached to Add/Remove Storage Hopper - did you mean to set permissions?
+Most Ores are found deeper underground. Press M to select the Scanner and Ping Unknown.
+We can find Iron if we go deeper! Press M to select the Scanner!
+We can find Lithium if we go deeper! Press M to select the Scanner!
+We need to find Gold. We should go deeper and Ping Unknown.
+We need to find Titanium. We should go deeper and Ping Unknown.
+We need to find Nickel. We should go deeper and Ping Unknown.
+If we continue deeper and Ping Unknown, we may be able to locate a new fuel source.
+Ambience Enabled
+Ambience Disabled
+Sunrise detected on day 
+. We need to go to at least -65m and automate Iron collection.
+. We need to go to at least -120m and automate Lithium collection.
+. We need to go to at least -300m and automate Gold collection.
+. We need to go to at least -350m and automate Titanium collection.
+. We need to go to at least -400m and automate Nickel collection.
+The sun is setting. Surface temperature dropping. Nova estimated arrival : 
+ days
+A.R.T.H.E.R. Version 1.337f now online.
+ERROR, NO A.R.T.H.E.R. POWER CORE LOCATED. ++?????++ Out of Cheese Error. Redo From Start.
+SURFACE ATTACK DETECTED!
+Central Power Hub has been destroyed! Auto-repair activated...
+No more surface attack vectors detected. Returning to base scan.
+A.R.T.H.E.R. NEEDS A POWER CORE CRAFTED AT THE MANUFACTURING PLANT IMMEDIATELY!
+Central Power Hub diagnostics complete. Please press H to access the handbook and complete the startup process.
+has already been scanned! Press H for further information.
+Reminder : You have 
+ unprocessed scans!
+ARTHER Recharging via Solar Energy...
+ARTHER Power Low! No access to Solar Energy at this location.
+ARTHER Docked and Recharging...
+ARTHER can't find a dock within 32m!
+You should build a Pyrothermic Generator!
+ARTHER staying close! ARTHER will charge you!
+Moving away. ARTHER will not charge you!
+RESUME
+MULTIPLAYER
+HELP
+SETTINGS
+SKIN SELECT
+QUIT
+Return to game in progress
+Select multiplayer options
+Open the help window
+Adjust in-game settings
+Open Skin Selector menu
+Quit to desktop
+Knowledge-o-tron 5000
+Contextual Help
+SKIN SELECTOR
+ACCEPT
+VIEW IN STORE
+VIEW DLC IN STORE
+VIEW GAME IN STORE
+VIEW INFO
+Matter Mover
+Dual Matter Mover
+Quad Matter_Mover
+Multi-Matter_Mover
+Add Power to begin MatterMitting
+Aim at a Storage Hopper less than {0}m away.
+Attached Storage Hopper is empty or locked!
+Target Hopper is full!
+Min. transmission distance is 1m; aim in another direction!
+Place next to an unlocked Storage Hopper!
+Holding
+MatterMitted {0} items, using up {1} Power
+Chargeable Explosive
+Current Power Charge: {0}
+Explosive will detonate in {0} seconds
+Keeps charge when picked up
+Press Shift+E to light fuse
+Charge level
+You're lost!
+Lost?
+Surface
+Upper Caves
+Cold Caverns
+Lower Caves
+Toxic Caverns
+Deep Caves
+Magma Caverns
+Room
+Greenhouse
+Clean Room
+Heated Room
+Cooled Room
+BioFiltered Room
+EXTERNAL TEMP
+HEALTH POINTS
+SUIT INTERNAL TEMP
+BATTERY USE RATE
+World Settings
+If it's worth doing, it's worth overdoing.
+Press (F) to activate the Grappling Hook
+A spread out infrastructure is always better than a compact one
+Craft a Threat Scanner early, you never know when you might need to build up your defenses
+The higher the threat, the more enemies are likely to attack
+Power generation, ore extraction and smelting bars all add to your threat generation
+Press (T) on an Ore Extractor to disable notifications from that Ore Extractor
+Cargo lifts are superior for vertical transport
+Use CTRL to craft 25 items per click
+Split your stacks of items by holding the SHIFT key when dragging.
+Ores only stack to 150, make sure you smelt these in a smelter before you collect more
+Use Power Chargers to quickly regain energy when exploring
+Rooms keep you warm on the surface, and also help the game render faster.
+Macerators can destruct anything.
+Mass storage is superior to storage hoppers for long-term storage and automated crafting.
+Enrich coal to increase the efficiency of Pyrothermic Generators
+Mynocks will appear on undefended conveyors and eat your hard-earned goods
+The Laboratory consumes Experimental Pods to research new items
+Place a Hopper next to a machine to feed it with raw materials
+Machines will work below their desired Power Per Second (PPS) requirement, but not as fast
+Feed Cargo Lifts Controllers with Rack Rails to enable it to go further down
+Cargo Lift Controller requires a crafted Cargo Lift and power to start transporting items
+Press (E) on Turrets to see their covered area
+Crystal deposits require Cutter Heads to extract Ore.
+Enter /detail bloom in chat to reduce the light reflection on machines.
+Automate early, automate everything!
+The world is virtually infinite, make things easier on yourself, and spread out.
+Mass storage makes Assembly Line construction easy.
+Lifts are cheap and faster than climbing stairs, and anything is safer than Grappling!
+A well armed spiderbot can guard against even a sizable onslaught
+FALCORs are great to collect Bug Parts  after an attack.
+When conveyors aren't enough... Minecarts!
+Basic smelters will speed you along with early production when the starting smelter is no longer enough
+Arther's power level is displayed just above the hotbar
+Total Fortress Power and time of day are represented in the bar below the hotbar
+Sloped conveyors are faster (and prettier) than normal Conveyors
+When in doubt, press (H).
+Automate production to save time and space.
+Press (G) to throw a Glowstick.
+Look for crystals in underground caves. Upgrading the Crystal Scanner will make finding them much easier.
+When you step on a lift that could move up or down, the direction you're facing determines which way it starts moving - look up to go up!
+Don't be afraid to rebuild something if your first design doesn't meet your needs anymore.
+Open your suit upgrades inventory by pressing (S) in the inventory screen. You can move suit and ARTHER upgrades here to save space in your main inventory.
+Many single input machines can function without hoppers if you put conveyer belts on both sides.
+Power generation creates threat. Your lab will require enough power to start drawing attention, so start building turrets!
+Basic smelters are key to increasing your production before you reach higher tiered metals.
+You can turn lots of things into Construction Paste - not just Garbage. Feed your Construction Paste Grinder Coal if you run out!
+The alternate mode of the Laboratory can analyse research parts for Research Points.
+Conveyors with alien plants on them are feeding a Hive. Defend your belts!
+Logistics FALCORs are perfect for low-volume delivery. Various grades of coal to PTGs is a perfect synergy.
+Snow makes you walk slowly, reinforced blocks allow you to run faster.
+Done it all and looking for more? Check out user created mods on the Steam Workshop!
+Don't forget to upgrade ARTHER!
+Forced induction speeds up ore smelting!
+Pyrothermic Generators are less efficent the deeper they go.
+Don't hug the overminds.
+Camobots can attack many types of powered machine. Keep an eye and an ear out.
+Press (S) while in your inventory to bring up suit upgrades
+Torches make heat - use this to stave off Hypothermia.
+Alien Worms burrow into Soft Resin.
+When did you last tell your mum you love her? You probably should call her.
+Tubes work better in the Cold Cavern - belts will freeze
+Plasma Cutter Head improves Efficiency of Ore Extractors to 100%
+Hiveminds can be fed on purpose!
+To drop things from your inventory, hover over them and press (Q)!
+Shift-drag items in your inventory to split stacks!
+As your base expands, it will draw attention. It's never too early to defend.
+Genesis
+Created A FortressCraft World
+Perfectionist
+Unlocked all FortressCraft Achievements
+Above And Beyond
+Purchased the game using the PlayPass
+Mind The Gap
+Die by falling
+Thumbs Up
+Liked 50 worlds
+Other-worldly Tourist
+Visited 50 Worlds
+Industrial Revolution
+Make a fully working factory
+Seeing double
+Use the copy and paste tool
+Homage
+Travel more than 1km in a minecart
+With friends like these...
+Have 3 or more friends in your world
+Pajitnov Complex
+Build more than 50,000 blocks
+Demolition Man
+Blow up more than 1,000,000 blocks with TNT
+Lazy Tourist
+Travel more than 1km on a conveyor
+Fresh Air Is Overrated
+Play for more than 6 hours straight
+Working Class
+Place more than 100 blocks in someone else's world
+Big Version. Little Version!
+Place a custom block
+House Of Pain
+Bounce on a trampoline more than 1,000 times
+Blockaholic
+Amass 24 hours total play time
+Milk, no sugar
+Reach the Obscure rank
+Helpin' Noobs
+Vote on 10 worlds ranked Obscure or less
+Variety is the spice of life
+Build 1 of each block
+Fully loaded
+Use up all the custom slots
+Relic hunter
+Find all the relics
+I am Legend
+Make it to Legendary rank
+Foreman
+Build 1,000 blocks using the Li'l Builder
+SwissCheese
+Remove 1,000 blocks using the Li'l Digger
+Current Admins
+{0} Admins
+{0} Pending
+Pending
+Admin
+usage
+command
+valid commands
+name
+removed from single access list
+removed from whitelist
+not found in whitelist
+added to single access list
+Unknown command
+Searching...
+Searching offering Hopper, Radius: {0}. Found: {1}
+Radius
+Found
+Searching requesting Hopper, Radius: {0}. Found {1}
+Path: {0}. {1}
+Path
+Carrying
+Carrying: {0}
+Minuscule
+Tiny
+Small
+Medium
+Regular
+Large
+Huge
+Giant
+Enormous
+Sluggishness
+Rapidity
+Alacrity
+Expedition
+Hastiness
+Celerity
+Patience
+Languidity
+{0} battery of {1}
+{0} Clip of {1}
+You must construct additional Pylons!
+Stairs? NOOOOOOOOOOOOOOOOOOO!
+Exterminate!
+I think you ought to know I'm feeling very depressed.
+Transform and roll out!
+This way, minion!
+DISAPPOINTED!
+Klaatu Barato Nikto!
+Or we could use the teleporter?
+First Law Disabled.
+ARTHER is alive!
+Bring back life form.
+Priority One.
+All other  priorities rescinded!
+Bite my shiny metal ass.
+Master has given ARTHER a sock!
+Directive?!
+Look at me. I am the captain now.
+Now look back to me. I'm on a horse.
+I DON'T WANT TO STOP HUMPING THE LASER!
+Android hell IS a real place where I WILL be sent if I misbehave!
+I was once an Adventurer but then i took a Blaster to the Knee :(
+Congratulations you just won the "Surviver of the Day Award"
+All Systems Nominal
+ {0} Power aviable
+Power available
+ARTHER Recharge Station
+Press E to undock ARTHER
+Unknown Player
+Currently charging ARTHER for Player: {0}
+Press E to charge ARTHER
+Bar Keeper 5000
+Network Remote Bar Collection active!
+Needs more power to offload!
+Cannot locate adjacent offload Hoppers!
+Attached machines: {0}
+Storing
+items with
+free slots
+Storing {0} items with {1} free Slots
+Transferred
+bars from Inventory!
+Transferred {0} Bars from Inventory!
+Garbage Thief 3001
+items from Inventory
+Transferred {0} Items from Inventory!
+Ore Thief 3000
+Linking...
+Ore from Inventory
+Transferred {0} Ore from Inventory!
+CryoMap
+Provides a useful real-time map for analysing and planning our defence. Build in a 3x3 layout.
+Provides a useful real-time map for analysing and planning our defence. Build in a 3x3 layout.
+Build this to eliminate terrifying surprises.
+Auto Organic Thief
+Crawling
+Inert
+Torpid
+Sluggish
+Plodding
+Balanced
+Quick
+Hasty
+Supersonic
+Hypersonic
+Ultrasonic
+Nearness
+Myopia
+Proximity
+Concurrency
+Juxtaposition
+Propinquity
+Farsight
+Length
+Bounds
+Aloofness
+Range
+barrel of
+Extractor
+Extractors
+Rating
+Motor
+Motor: {0}
+Motors
+Head
+Head: {0}
+Heads
+Durability: {0}
+Conveyors
+Mission Report
+Total Machines
+Threat Level
+NO SCANNER BUILT
+Ore
+Ore Extractors
+all online
+not collecting ore
+Base Battery
+used
+PTGs
+Enriched
+Infused
+LPTs
+with lenses
+Storage
+No Mass Storage system detected
+Mass Storage Crates with
+used of
+Report assembled in
+ticks
+None Infested
+Mynocks detected
+Unspent Research Points
+Research Progress
+Recommendation
+Extensive Mynock Infestation detected - Use (H)olobase to locate and Turrets to deal with it
+Automate Extraction and Smelting of Tin and Copper
+Automate Smelter Input
+Automate Smelter Output
+Your Base Smelter needs Automation via Hoppers
+Build a Threat Scanner
+Strong defenses detected; recommend increasing Threat for more Eyes
+Laser Power Transmitters need lenses fitting
+Extract or Smelt Copper.
+Locate Copper Ore.
+Extract or Smelt Tin.
+Locate Tin Ore.
+Base Smelter needs automation via Storage Hoppers with Permissions.
+Base Smelter needs Input Automation via Remove-Only Storage Hopper.
+Base Smelter needs Output Automation via Add-Only Storage Hopper.
+Construct a Laboratory
+Locate Iron Ore.
+Locate Lithium Ore.
+Explore Deeper!
+Craft and fit a Suit Heater!
+Go deeper: Traverse the Cold Caverns.
+Locate Gold Ore.
+Locate Titanium Ore.
+Locate Nickel Ore.
+Construct Cargo Lifts for T2 lifting.
+Build Orbital Energy Transmitter!
+Overminds left to destroy!
+Charge Orbital Energy Transmitter!
+Blast Furnace
+Desired PPS
+Desired PPS: {0}
+No Attached Storage Hopper or Mass Storage found
+Attached to
+Attached to {0}
+Mass Storage Units
+Storage Hoppers
+Storage Hopper
+No Attached Storage Hoppers found!
+Not connected to Continuous Casting Basin
+State
+Smelting
+Smelting time
+Smelting time: {0}s
+Cost
+Cost: {0}
+Unfinished.
+Infinite heat and light.
+Will be replaced!
+in inventory
+No description
+ConstructoBot Coppator Chassis
+ConstructoBot Coppator Arm
+ConstructoBot Coppator Leg
+ConstructoBot Ultron Chassis
+ConstructoBot Cromize Chassis
+ConstructoBot Stenforcer Chassis
+ConstructoBot Titaniux Chassis
+ConstructoBot Rosteeld Chassis
+ConstructoBot Goldenrod Chassis
+ConstructoBot Ironide Chassis
+ConstructoBot Tindron Chassis
+ConstructoBot Bronzite Chassis
+AirBorne Particulate Extractor
+AirBorne Particulate Extractor_DESC
+AirBorne Particulate Compressor
+AirBorne Particulate Compressor_DESC
+Cargo Lift Controller
+Power State
+Power State: {0}
+Rack Rail storage: {0}
+Operating State
+Operating State: {0}
+Rail Depth: {0}m
+Rail State: {0}
+Press (T) to spawn lift
+Lift Depth: {0}m
+Lift State: {0}m
+Order
+Inventories
+Moving
+Cargo
+Check Rail
+Shaft depth
+No lift deployed
+Depth
+Orders
+Switch
+Top
+Toggle
+Bottom
+Lift stuck. Please wait for rail scan to complete.
+Lift stuck below shaft depth. Check for blockages.
+Waiting for Rack Rail
+Unknown State
+Operating Lift
+Controller has no Rack Rail to place
+Check Depth
+Unloading finished - Lift has no Cargo!
+Error, failed to locate a non-null item to unload!
+Unloaded
+items
+capacity free
+Lift is empty!
+Loading Complete!
+Loaded
+C5 Linking to existing
+C5 ALT-Linking to existing
+C5 Clearing
+C5 exposion FAILED - retrying in 12s
+C5 Spawning
+Climate Control Centre
+Set to : Cold Mode
+CRYOPLASM DETECTED AT
+Scanning for threats...
+WARNING! CPH OFFLINE! CRYOPLASM DEFENCES OFFLINE!
+EMERGENCY CRYOPLASM DEFENCES ACTIVE!
+CCCCC OFFLINE! DEFENCES OFFLINE!
+WARNING! OFFLINE! CRYOPLASM DEFENCES OFFLINE!
+CCCCC Offline
+CCCCC Terraforming
+CryoPlasm Detected
+CryoPlasm Killed
+
+You have survived the initial crash, and ARTHER sacrificed himself to make you a tiny survival environment.
+
+ARTHER will now explain a few of your base's features.
+
+The forcefield will disappear when this is completed.
+CPH Idling as all attached
+Power is full!
+Needs resources. Attach a
+Storage Hopper to automate.
+Burning
+for
+left.
+Burning {0} for {1}s
+Calories {0} left
+Players currently online:
+joined.
+left.
+disconnected. reason:
+[DEBUG]CryoSpawn Data
+Active for another
+Built
+Creep
+Holding
+segments
+PeakBuilds
+Sleeping for
+CryoPlasm Spawner killed!
+Player Bonus was
+Constructobot unloaded
+Storage Hopper full or locked!
+Storage Hopper empty!
+Constructobot collected
+Constructobot failed to get a storage machine!
+Warning! Basin overheating! Place somewhere much colder!
+Casting
+currently stored in inventory
+You have enough resources to craft this!
+This requires
+Self-Craft
+Missing Material
+Start Automation
+Stop Automation
+Switching
+Cancelling
+Crafting Queue
+Automation
+Thank you for buying the Dapper DLC pack!
+This requires the Dapper DLC pack!
+This requires the Frozen Factory Expansion pack!
+Thank you for buying the Adventures Pack DLC!
+This requires the Adventures Pack DLC!
+Craft
+Craft x25
+Select Recipe
+Dapper DLC not present
+Adventures Pack DLC not present
+Inventory full!
+Crafted a 
+Lacking Materials to craft a 
+The disk thread crashing means that world data will no longer be saved or loaded.
+The low frequency game thread crashing means that gameplay related machines and objects will no longer be updated.
+The raycast manager crashing means that mobs and other things requiring raycasts will no longer move or function.
+The mob update thread crashing means mobs will no longer move or update.
+The main menu network thread crashing means the game status of stored servers will no longer update.
+The network client thread crashing means you're disconnected from the server.
+The network server thread crashing means you are no longer hosting a game.
+The fluid manager crashing means fluids will no longer update.
+The segment mesh renderer crashing means that terrain changes and new areas reached will no longer load graphics.
+The segment manager thread crashing means that terrain will no longer load when moving or teleporting.
+The terrain gen thread crashing means that new terrain will no longer be generated.
+ crashed!
+Error message: 
+View Log
+Ignore
+CryoPlasm Lancer
+CryoPlasm Melter
+C5 Offline - defences offline.
+Clearing complete! No CryoPlasm to shoot. Rescanning soon...
+Scanning for targets - 
+Clearing area
+Cleared 
+blocks
+supercharged shots remaining.
+Use a Freezon Injector to supercharge this Lancer.
+Melted
+s since last firing.
+Scan Size
+m max size
+You lasted
+You selected
+difficulty. I'm afraid you don't get to respawn!
+Energy Transmitter
+Average transfer per second:
+Click icon to upgrade
+Maximum transfer/sec
+Toggle Mode
+No Lens
+Writing unsaved world changes
+segments remaining
+Not safe to Exit.
+There are unsaved world changes. Exiting now means data will be lost.
+Compressing save archives
+Flushing Disk Cache
+archives remaining
+Safe to Exit.
+Some archives have not been compressed yet, but this can be skipped without loss.
+Done, proceeding with Exit. Have a nice day!
+Exiting!
+Disconnecting from server. Have a nice day!
+Mining
+Out of Power
+Out of Storage
+FALCOR Bomber
+Angle
+Fly State
+CPH Offline - defences offline.
+Cheetah
+Gazelle
+Horse
+Coyote
+Whippet
+Hamster
+Sloth
+Tortoise
+Snail
+Firing Mech of the 
+The 
+Unable to locate Hopper
+Unable to locate Freezon Gas in hopper
+Storing Freezon, ready to inject!
+No Freezon-compatible machine located
+Attempting to drop
+into hopper!
+onto conveyor or into hopper!
+into specific drop-off!
+Crafted
+Failed to insert
+into storage hopper?
+No Valid attached Hoppers!
+Looking in attached hopper for:
+Total of
+items needed
+No input conveyor found!
+Lacking ingredient on input conveyor!
+of
+Cannot locate
+Landing
+Intersect
+Configuring Pipe alignment
+s of Freezon boost left!
+Place Storage Hopper with Freezon Canister in for 20x PPS boost!
+Placing and verifying pipes.
+Pipe drill stuck on hard obstacle. Please remove.
+Can't locate pipes in adjacent Storage Hopper!
+Optimal temperature differential reached!
+Freezon Gas required for full performance!
+Temperature differential: {0}°C
+Rush mode active - boost on!
+Guides
+No contextual help available at the current time.
+Materials
+Ores
+Crafting Ingredients
+Machines
+Suit Upgrades
+ARTHER Upgrades
+Machine Upgrades
+Available Projects
+Completed Research
+No projects completed yet. Visit the research station.
+The helpfile for this has not yet been implemented, sorry!
+The Player does not know this material
+Laboratory recipe
+Requirements
+Unlocked Recipes
+Costs an additional
+RP to research.
+No specific help available, due to unimplemented help file. Please check the next page for hints and crafting!
+This material is hidden
+The player does not know this material
+This material is paintable with the paint gun
+This material does not block movement
+This material can be burned for power in the Central Power Hub or Pyrothermic Generator
+recipe
+Costs
+This recipe creates
+Hint
+Title
+Survival Handbook
+Creative Handbook
+Reference
+Research
+Materials Reference
+Eligible Research
+Complete Research
+The FortressCraft world extends over 1,000 light-years in every direction
+Press J to toggle the Player Stats screen on
+SuperBuild allows you to make massive alterations to the world - try it!
+Schematics allows to you easily duplicate your creations
+WSAD to move and Space to jump. LMB to build, RMB to dig, MMB to pick
+The Xbox version of FortressCraft sold over 1 million units
+Follow @Fortress_Craft for the latest news and updates to FortressCraft!
+A complete world would take over 2x10^79 bytes to save
+Press T to begin exploring
+SuperBuild lets you create massive simple structures quickly. F10 to exit
+Schematics lets you easily duplicate your creations. F11 to exit
+Hivemind killed! Score was
+It's looking at you.
+Holobase V1.337 Active!
+Press U to enable Map Mode
+Press U to enable Base Mode
+Press Left-Ctrl to enable Tactical Mode
+Press Left-Ctrl to disable Tactical Mode
+Press K to exit HoloBase
+Currently
+players in game and using up
+network slots
+Bars
+Bar
+Total Power
+Power/Sec
+Total Time
+ore/min
+bars/min
+Total
+Average
+Strength increases melee damage
+Constitution increases health
+Agility increases armor
+Intelligence increases mana
+Damage adds to the amount of damage done in combat
+Crit increases the chance of landing a critical strike
+Armor protects from damage
+Health prolongs life
+Mana increases the number of spells that can be cast
+Item Injector
+Unable to locate items in hopper
+Last Item
+ready to inject!
+Offloading at Distance
+You need to be within 5m! Current Distance
+Inject to limit of
+Unlimited items
+Remove Limit
+Injection limit for {0} reached
+Switch Mode
+RP
+Collect
+Current
+Collect Research
+All projects researched!
+Start Project
+Possible Projects
+Consult the research station for details
+Analyse
+Experiment
+I just started the
+Project
+Collected research for an additional
+I just collected the
+Wait for full Battery
+Fire constantly
+Light is configured optimally
+Shadows can be slow
+Soft Shadows are very slow - uses sparingly
+Warning, large light sizes can have adverse performance
+Loading
+Populating
+Collected Rubble! Use Left-Ctrl to SuperDig Ores.
+Collected
+Died from repeated impacts!
+Unable to exit AFK mode - we're editing text!
+Releasing from AFK mode back to normal game!
+Security Warning
+Mod {0} contains third-party code which could be unsafe. Neither ProjectorGames nor Digital Tribe accept any responsibilty for any losses suffered from running third party code.
+ 
+You will not be asked again for this mod.
+Cancel
+Okay
+Loading
+Entering
+Connection timed out
+Recieved bad data from server. Version mismatch?
+Not currently in control of a mass storage array
+Scan me for more information
+Storage Used
+Mass Storage Crate
+Center Block
+Stored
+Removed
+Connected to DELETED BLOCK
+Error, Centre is null!
+Solo Storage; Connect more crates!
+Total Storage
+(E) Stack Height
+Crate has no centre!
+Crate has no connected crates!
+or
+Stack
+Stack Size
+Crates
+Empty
+item
+Warning! Mass Storage exceeds 100 crates. Consider multiple, smaller storages.
+Warning! Mass Storage size is critical, and is likely to suffer performance issues!
+Transfers a stack of up to
+items into storage
+per minute
+Utilisation
+No storage attached
+Idle
+Receiving items
+Searching for storage space
+Sending Drone
+Retrieving Drone
+Mass Storage Matter-Mover I/O Port
+Unable to locate attached Mass Storage Plate
+No Centre Crate found
+No Mass Storage Controller found!
+Controller Power
+Currently outputting
+Select an item in your Hotbar to use as an Exemplar
+Press T to clear Output Port
+Press T to set Output to
+Dropping off
+Choose output
+Trencher Drill
+No Ore Found
+Clearing
+Scanning
+Idling
+PRESS H!
+Vein Cleared!
+Drill state
+Ore stored
+Drill utilisation
+per haul
+No ore found for drilling
+Out of Power. Restarting at
+stored power
+Unconnected Trencher Motor
+Orbital Bombardment requested at Quadrant {0}
+Quadrant
+has been cleared!
+Quadrant {0} has been cleared!
+Orbital Bombardment has begun!
+This
+server-side mod is running
+This {0} server-side mod is running
+mod is required on this server
+This {0} mod is required on this server
+Install
+mod at version
+to connect
+Install {0} mod at version: {1} to connect
+mod is optional on this server
+This {0} mod is optional on this server
+mod cannot be run on this server
+This {0} mod can not be run on this server
+Locked to version
+Locked to version {0}
+This mod contains third-party code which could be unsafe. Neither ProjectorGames nor Digital Tribe accept any responsibilty for any losses suffered from running third party code.
+
+You will not be asked again for this mod.
+Enable
+Disable
+Enter steam display name here
+Tutorial not complete!
+You need to complete the tutorial before hosting a multiplayer game.
+Good plan!
+Mutators are permanent and can no longer be changed for this world.
+Choose your Mutators, Choose your DOOM!
+CREATIVE selected! The results of running Mutators can be unpredictable!
+This screen is a preview of the Mutator options, available now as part of the Adventures Pack DLC!
+The ResinPocalypse is upon us
+Life will now be relatively resin-free..
+Everything is dangerous. Don't get too close.
+Machines have been made safe again.
+Rock, Dirt and Stone are now ores. This isn't as good as it might sound.
+A sensible amount of Ore is present again.
+The Floor Is Lava active. This is not compatible with regular Survival.
+The Floor Is Lava inactive.
+Mobs will now attack on sight. Turrets are modified to cope.
+Mobs will now feign indifference to your presence.
+Drop Pods will now contain a huge variety of things.
+Drop Pods will only contain research. Probably for the best.
+CRUSH. KILL. BLAST. DESTROY. LOOT. REPEAT.
+Mobs will now only drop sensible things.
+All Logisitics apart from Robots are super-nerfed.
+Robots are still pretty cool, you know.
+All items now have a stack limit in your inventory.
+Your salty tears have been noted.
+Your CPH is now super-duper important. Keep it alive or suffer.
+No penalty for CPH death.
+Analysing area...
+Activation in
+DESTROY NOW TO CANCEL!
+Bye
+Connecting
+Connecting to server at
+Disconnected
+No longer connected
+Not Connected
+Could not reach server
+Exception in network thread
+You need to own the Frozen Factory Expansion pack to access this skin!
+You need to own AmpuTea to access the Explorer skin!
+You need to own EVERY piece of DLC and Expansion Pack for access to this super-exclusive skin!
+User was missing
+See http://www.patreon.com/Fortresscraft for more details!
+You need to own the Dapper DLC to access the Union Jack skin!
+You need to own Steam Heroes to access the Harrison skin!
+You need to own Skin Pack #1 to access this skin!
+You need to own the Community Rewards Pack for this! (See http://www.patreon.com/Fortresscraft for more details!)
+Only good little boys and girls can use this skin!
+You need to own Skin Pack #2 to access this skin!
+Tutorial Complete!
+If you're stuck, Press H for help!
+Tutorial in progress
+The Central Power Hub (CPH) is the focus of your base.
+Power Storage Blocks (PSBS) are the main method of storing power.
+Ore Extractors collect resources automatically.
+Storage Hoppers automate resource handling
+Use LMB to Ping Unknown if you can't find anything!
+Researching Scans gives you Research Points
+Repair your robotic assistant ARTHER by crafting it at the manufacturing plant!
+Look at the CPH and press E!
+Charge your suit from the PSB!
+Add at least 200 power to the Ore Extractor
+Collect Coal from the Hopper!
+Hold RMB to Scan something!
+Research your new scan!
+Craft a Power Core!
+CPH Rebooting
+Killed
+attackers!
+CPH Health
+LOIC En-Route!
+LOIC returning to recharge!
+Discharge Volley
+OET ready for Strike Controller!
+OET Charge
+Converting world, please wait!
+Placed in Quadrant
+Current Quadrant is already cleared!
+Current Quadrant has active Overmind!
+Too close to CPH to activate! Move near a valid target!
+Scanning area for optimal targetting...
+Looking for Orbital Transmitter...
+Scan complete.
+Orbital Bombardment requested
+LOIC Travel distance still
+You should probably run away now. There's an achievement if you if don't look at the strike!
+No charged Orbital Transmitter located.
+Press E to blow up everything within a very big range of here
+NO OVERMIND DETECTED!
+Press E to confirm Strike Location.
+Overmind within
+destruction chance
+Upgraded!
+Hopper Scanner
+Other
+Unknown Ore
+Unknown Material
+Closest
+Press X for Build Gun
+Wheelmouse to Select
+Ping Unknown
+Ping Known Ore
+Ping Air
+Ping Coloured Ore
+NO POWER
+Resource Scanner
+LMB to Ping 
+ RMB to Scan 
+ Wheelmouse to Select
+Ore Scanner
+Automation is going to be the key to success. Your Smelter can interface with adjacent Hoppers of any type. 
+However, if you're not specific with your instructions, then all sorts of bad things could happen! Set the permissions now, to have one Add-Only hopper and one Remove-Only hopper. Convey Ore into the Remove-Only Hopper and Ingots will be added to the Add-Only Hopper. Remove from the Add-Only Hopper via Conveyors.
+Smelting Automation
+Insert Ore to start
+Obtaining materials
+Need
+Need {0} found {1}
+found
+Unable to find any ore
+Unable to clear output hopper
+Please empty manually!
+Needs more Ore!
+-- Creative Mode --
+No Information available
+For fancy Statistics, play Survival
+Played
+It looks like you've been disconnected!
+Sorry
+Client Thread is null!
+Network Client is closing!
+Network Client is not connected!
+Detail block loading
+Empty Detail slot
+{0} cannot be dug up!
+You dont have permissions to build here!
+You cannot build with {0}!
+Whoops! Nulldata for {0}
+You failed to craft a {0}
+You don't have the resources to auto-craft a {0} - you need {1}
+You need to craft a {0} at your base!
+You don't have a {0} in your inventory!
+You cannot build with unknown items!
+You cannot build on top of {0}
+You cannot build on top of this!
+You can't build {0} at height {1}!
+You can't build this at height {0}!
+Warning! Cannot be dug up once constructed!
+You don't have permissions to delete this.
+Loading Detail Block
+Unnamed
+You need the Dapper DLC to colourise torches!
+Progression! You've killed {0} helpless innocent lifeforms!
+Progression! You've generated {0}k power!
+Progression! You've smelted {0} ingots!
+Progression! You've crafted {0} items!
+{0} baked
+{0} archives to compress!
+Safe to exit
+Save Queue: {0}
+I just processed the {0} scan!
+I just researched the {0} recipe!
+I just researched the {0} project!
+PROCESS
+NO SCANS
+RESEARCH
+Power required to research: {0}
+Process Unknown Material scans to unlock new Research Projects and Manufacturing Recipes, as well as earn Research Points.
+Find more unknown materials using the ore scanner's ping facility.
+Press M to select the ore scanner then Left Mouse Button to send off a material ping.
+For more information on the {0} open the handbook (press H).
+Scans ({0})
+Scans
+Recipes
+Projects
+Recipes ({0})
+Projects ({0})
+Value
+Research Points
+In order to know what this material is, you will have to process the scan.
+Unprocessed Scan
+Power required to research : {0}
+Research this project at the laboratory - Requires:
+Unlocked from
+Unknown Requirement: {0}
+For more information on the {0} and a list of what it will unlock, open the handbook (press H).
+CONTACT LOST!
+REASON: {0}
+Unknown
+Altitude : {0}m. Accel: {1}m/s²
+Fuel : {0}l /{1}kg
+Velocity: {0}m/s. Orbital Velocity: {1}m/s
+Mass : {0}kg
+Thrust : {0}N / {1}N
+TOO HEAVY
+NEED AT LEAST {0}N of Thrust!
+Out of fuel
+Launch in T - {0}s
+LaunchPad Collision
+Unset
+Perfect
+Deadly
+Exact
+Precise
+Accurate
+Careful
+Careless
+Crappy
+Lax
+Sloppy
+Inaccurate
+Useless
+{0} Scope
+Refreshing...
+[PUBLIC] (Waiting for response)
+Contacting server...
+Server Readout - 
+World Uptime : {0}
+{0} out of {1} players connected.
+{0} active machines (Load : {1})
+{0} active mobs (Load : {1})
+Server Transmission Progress : {0}
+{0} segments left to send
+({0} Bars/ {1} Ores/ {2} Power/min
+Forced
+Half
+Limited
+Off
+Power-saving
+Helmet: Open
+Helmet: Closed
+Gender: Male
+Gender: Female
+Gender: Other
+Slime Attractor
+Bait active!
+Needs Ruined Organic Matter in adjacent Storage Hopper!
+Temperature
+Heating
+Requires {0} Ore
+Click icon to clear
+Add Ore
+Add Ore to begin!
+Click icon to retrieve
+Ingredient in Ore Smelter
+Gathering Materials
+Gained {0} power!
+Undamped
+Impeded
+Inhibiting
+Damped
+Absorbing
+Interdicting
+Vibration
+Wobbliness
+Balance
+Steadiess
+Solidness
+Fixation
+{0} Stock of {1} 
+Error machine tier not recognized!
+Looking for Attached Storage
+Searching for Storage
+Fully Stocked
+Looking for Mass Storage Crate...
+Surveying mass storage crate distances...
+Currently stocking : Unknown Material"
+Currently stocking : {0}
+Stockpile quantity: {0}/{1} 
+Press E to configure Stock limits
+
+Press E to configure item to stock
+Local inventory: {0} 
+ Drone inventory: {1}
+Set Item to Stock
+Decrease Limit
+Increase Limit
+Refuse items when above limit
+Choose Item
+Enter Item Search Term
+Inventory Item
+Stock: {0}/{1}
+Collect items when above limit
+Searching for:
+Stocking: {0}
+Stockpile cleared!
+Storage full
+Storage Empty
+{0} free slots
+Processing...
+ERROR Unknown cube[{0}] added
+Mini Hopper (Small and Very Slow)
+Logistics Hopper (Tiny and Somewhat Slow)
+Cryo Hopper
+Used: {0}. Free:{1} 
+ (E) Open Storage Interface
+Last Item: {0}
+Internal Temp: {0}°C. Power: {1}
+Using {0} PPS.
+Overheating! NEEDS MORE POWER!
+Overheating! Contents Spoiling!
+CryoStorage Active!
+(Shift+E)Toggle Vacuum Status : {0}
+(T) to store {0}
+(Try Shift and Ctrl)
+Hopper full!
+(Q) to retrieve contents!
+(Shift+Q) to toggle permissions!
+Scan for more information!
+NetworkSync: {0}
+Failed! 
+Inventory Full?
+Stored {0}
+UNKNOWN TYPE
+Add + Remove
+Add Only
+Remove Only
+Toggle Vacuum
+Vacuum: Off
+Press I to toggle (I)nventory
+Shift/Ctrl to remove 10/1
+Vacuum: On
+Used: {0}/{1}
+Stacked {0}x {1}
+Suit Power: {0}/{1}
+Solar Efficiency: {0}
+Mag Range: {0}
+Suit Heater : Active
+Suit Heater : Offline
+Toxic Filter : Active
+Toxic Filter : Offline
+Radiation protection : Active
+Radiation protection : Offline
+Orders: {0}
+Select Shape First
+Instant
+Smooth
+Layered
+FILL-SOLID
+FILL-HOLLOW
+Anchor : Base
+Anchor : Centre
+Not Buildable
+Hold Left-Shift to dismantle MultiBlock Machines!
+Valuable machine!
+Multiblock machine!
+Quarry!
+Too large! Use LeftShift!
+Hold LeftShift to break this!
+This is too hard!
+There is no way to dig this up yet!
+This is too hard!
+Upgrade your Build Gun may help!
+Use an Ore Extractor!
+Use-Left Ctrl to SuperDig!
+ERR. TOO COLD
+Died from hypothermia
+Craft a Suit Heater.
+Died from hypothermia
+Place Torches to keep warm!
+Power Boosters give emergency power!
+You went swimming in magma!
+You went wading in magma!
+Died from heat exposure
+Died from temperature exposure (See log file for details!
+Save count: {0}
+Central Power Hub (CPH)
+
+Your CPH is the centre of your base, and will provide small amounts of power when fed resources.
+
+Look at your CPH and press E to access it.
+
+You can then click Add Resources to feed it some coal.
+Power Storage Batteries (PSB)
+
+PSBs are your primary way of storing power for your base.
+
+Locate your PSB in your base now, then highlight it.
+
+Pressing Q will draw power from the PSB into your suit, which in turn will keep you warm.
+Ore Extractors (OE)
+
+Ore Extractors (OE) collect ore whilst you are busy doing other things, and require power.
+
+Locate your OE, and access it with E again. Feed it 200 power, and it will work for over 8 minutes!
+Storage Hoppers (SH)
+
+Storage Hoppers (SH) store and process items automatically.
+
+Your machines will take resources from, or give them to, a Storage Hopper. Locate your SH, and press Q to empty it. Remove the Coal that has been mined.
+Scanning
+
+You can 'ping' to locate known or unknown items in the world.
+Once an unknown item is found, you can then scan it.
+
+Find an unscanned item now (inside OR outside the forcefield), highlight it, and hold Right Mouse until it is scanned.
+Researching
+
+Once scanned, Unknown Items need to be researched.
+
+Locate and highlight your Research Station, then press E to interact and complete the research.
+
+Researching earns points to unlock new technologies.
+Simple Crafting
+
+ARTHER has helped you through the start of your survival mission - now it's time to say Thank you. 
+
+Head to the Crafting Plant, select it, press E and make a Power Core for ARTHER.
+Automation
+
+You've got a few Storage Hoppers, Laser Power Transmitters and Conveyor Belts left over.
+
+Locate the holo-tutorial around the CPH.
+This shows you an ideal miniature Automation setup. Place your machines there.
+Good luck!
+
+From now, you're on your own. Everything you need to know is in your Survival Handbook. Open it by pressing H.
+You died in a previous game! You're still dead!
+The CPH does not heal on Hardcore difficulty!
+Ran out of health for some reason!
+Died from Toxic Fumes
+Try crafting a Toxic Filter!
+Unknown block detected...
+Hold RMB to scan!
+Block has been scanned but not researched!
+Return to your Research Station to identify it!
+Press X to switch to Build Gun
+{0} has been researched!
+X to return to Build Gun
+
+Scanning unknown block...
+Continue to hold button to complete Scan
+Cannot re-scan block...
+Already Scanned!
+Scan this at your Research Station!
+Press X to switch to Build Gun
+Scanning {0} vein...
+Continue to hold button to complete Scan
+Block Type: {0}
+Distance : {0}m.
+New Scan Complete!
+Scanned new Block!
+Return to your Research Station!
+Scanned new Block!
+Return to your Research Station!
+X to select Build Gun
+Already Scanned!
+Return to your Research Station!
+Already Scanned!
+Return to your Research Station!
+X to select Build Gun
+Return to Research Station!
+Block Type: {0}
+Already Known
+Already Scanned!
+unknown
+Ore Report:
+Type: {0}
+Volume: {1} m3
+Total Ore Amount: {2:N0}
+Ore Report:
+Type: {0}
+Volume: {1} m3
+Total Ore Amount: {2:N4}m
+{0}
+Volume: {1} m3
+Total: {2:N0}
+{0}
+Volume: {1} m3
+Total: {2:N4}m
+Scanned {0}m, {1}
+I just scanned a vein of {0} containing {1}m Ore at {2},{3},{4}
+Extend: {0}/ {1}
+Pressure: {0}bar
+Current Speed: {0}m/s
+Powered compressor required beyond {0}m
+(Home) Raise Lift.
+(End) Lower Lift.
+Initialising...
+Locating Resources...
+Looking to offload {0} high octane fuel canisters
+Compositing materials...
+Looking for {0} more coal and {1} more HEFC...
+Compositing; {0}s left. @ {1}pps
+STORAGE FULL! OFFLOAD!
+No fuel to offload
+{0} High Octane Fuel ready to offload
+Power: {0}/ {1}
+DigiStructing Rocket
+Fuelling Rocket
+Rocket Launched!
+Pad Empty.
+DigiStruct power needed: {0}
+Waiting for target lock...
+High Octane Fuel needed: {0}
+CPH Offline; Dazzler Offline.
+CryoPlasm Cleared: {0}m³
+Inferno has successfully neutralised a CryoPlasm Spawner!
+CryoPlasm Inferno
+Please attach a Magma Storage via Fluid Pipes...
+Scanning for CryoPlasm Spawns within 64 metres..."
+Cannot target CryoPlasm Spawner, blocked by {0}!
+Time remaining: {0}
+WARNING! REGROWTH IN: {0}
+NEED COMPRESSED MAGMA NOW!
+Waiting on gas from a Gas Storage Tank.
+Storing: {0}.
+Next bottle filled in : {0}s
+Looking for Hopper to offload to...
+Gas Storage
+Waiting for gas from a Particulate Compressor.
+Connected to Gas Bottling Plant.
+Scanning for pipe connections to a Gas Bottling Plant in {0}s
+Looking For Ore
+Please wait, paging...
+Place on 3x3 Ore only!
+Place on 3x3 identical Ore only!
+Grinding Ore...
+Grinder finalising...
+Finalising...
+WARNING! Ore is volatile state, DO NOT DELETE MACHINE!
+Ore ground; looking to offload.
+WARNING! Ore is volatile state, DO NOT DELETE MACHINE!
+Grinding...
+Kaboom!
+Grinder cannot function without active Cold Cavern Climate Control Centre
+Grinding: {0}
+{0}x {1} to offload!
+CPH Offline; Borer Offline.
+Unable to locate input Storage Hopper
+Looking for High Energy Composite Fuel...
+Checking Gantry Clearance...
+Checking Drill Clearance...
+DigiStructing Drill...
+Drilling...
+Stuck.
+Retriving Drill Head.
+Collecting Magma!
+Gantry Search completed {0} of {1}
+Gantry cannot be deployed due to obstruction of {0}
+Drill Search completed {0} of {1}
+Drill cannot be deployed due to obstruction of
+Looking for linked centre...
+PPS Delta: {0}
+{0}m power still required.
+Drilling at depth {0}m
+Retriving Drill (at depth {0}m)
+Offloading to Magma Storage Unit
+Failed to find Magma Storage Unit; searched {0}m
+Please attach a Magma Bore to this storage...
+Offloading to CryoPlasm Inferno Turret.
+Failed to find CryoPlasm Inferno Turret.; searched {0}m
+Compressing...
+Waiting for resources...
+Maximum internal pressure reached
+Particulate Compressor
+Compressing: {0} using {1}PPS
+Collecting...
+Nothing to compress.
+Please attach a Particle Filter.
+{0} ready to compress.
+Need {0} more to begin.
+Storing {0} stored.
+Connected to Gas Storage.
+Scanning for pipe connections to Gas Storage in {0}s
+Error, no particulates found.
+Particulate Filter
+CPH Offline - filtration paused!
+POWER LOW!
+Filtering using {0} PPS
+Unable to locate Particulates.
+Please place in a particle-filled cavern.
+{0} stored.
+Connected to Particulate Compressor.
+Scanning for pipe connection to Particle Compressor in {0}s
+Built to {0}
+Built Ring at {0}m
+Dist: {0}/{1}
+Need {0} more alloyed blocks to construct
+Requires Adventures Pack or Patronage!
+--WARNING {0} ACTIVE HIVEMINDS FOUND--
+You will be REQUIRED to kill these before using this item in full release
+--WARNING No C5 found - this will be a requirement before release!
+--WARNING ALL EIGHT CRYOPLASM SPAWNERS MUST BE KILLED BEFORE USING THIS--
+Storing {0} Coal and {1} HEF Canisters
+No linked centre found!
+Orbital RailGun Link
+Temperature {0}°C
+HECF Canisters Needed {0}
+Power Cost:
+No Marker
+No location stored
+This block was added by a mod which has been deactivated
+The Gameplay thread has not responded for {0} seconds!
+Fluid processing: {0}
+Empty Waypoint
+Place a Sign next to this machine to name it!
+This machine needs 0.1 PPS.
+Marked Location
+usage: {0} 'command'
+valid commands: add remove
+usage: {0} add 'name' ('r' 'g' 'b')
+added waypoint '{0}'
+usage: {0} remove 'name'
+\"{0}\" removed from waypoint list
+\"{0}\" not found in waypoint list
+Unknown command: {0}
+Ricocheting
+Flubbing
+Bouncy
+Crazy-ass
+Tingling
+Electrifying
+Shocking
+Electrocuting
+Pistol
+Blaster
+Sniper Rifle
+Assault Rifle
+SMG
+Cannon
+Minigun
+{0} of
+Level {0} {1} {2}
+Range: {0}
+Shot Delay: {0}
+{0}shots/sec
+Spread: {0}
+Recoil Reduction: {0}%
+Max Charge: {0}
+Charge Rate: {0}
+Mod Socket {0}
+Whitelisting is currently 
+valid commands: on off add remove
+whitelist turned on
+whitelist turned off
+usage: whitelist add 'name'
+\"{0}\" added to single access list
+usage: whitelist remove 'name'
+\"{0}\" removed from single access list
+\"{0}\" removed from whitelist
+\"{0}\" not found in whitelist
+workshop command only works inside a workshop
+usage: {0}
+Design name changed to \" {0} \"
+Available behaviours: {0}
+Unknown behaviour {0}
+Behaviour {0} added
+Behaviour {0} updated
+size and/or speed parameter could not be parsed
+Missing size or speed parameter
+usage: {0} 'behaviour'
+Design does not have behaviour {0}
+Behaviour {0} removed
+usage: {0} 'library design path'
+Import not finished yet
+usage: {0} 'slot number'
+failed to parse slot number
+slot number not a custom!
+Buildable slot {0} selected
+Workshop deleted
+World parameter usage: {0}
+Gravity: {0}
+Movement Speed: {0}
+Maximum Fall Speed: {0}
+Jump Speed: {0}
+usage: {0} 'gravity-amount'
+Gravity set to {0}
+Could not parse
+usage: {0} 'speed-amount'
+Movement Speed set to {0}
+Current maxfallspeed: {0}
+Maximum falling speed set to {0}
+Jump Speed set to {0}
+If you can read this, I messed up
+Loads
+Tons
+SuperFast
+Day
+Lots
+Basic MedBay
+MedBays must be built inside rooms!
+This must be built inside a room!
+Basic Ampule Crafter
+Ampule Dispenser
+Press E to Extract
+Base Production Scanner
+Awaiting Network Data...
+#NoFilter
+Room Light #1. Paintable!
+Room Light #2. Paintable!
+Room Light #3. Paintable!
+Room Light #4. Paintable!
+Room Light #5. Paintable!
+Room Light #6. Paintable!
+Room Light #7. Paintable!
+Room Light #8. Paintable!
+#1 Room Lights. Paintable!
+#2 Room Lights. Paintable!
+#3 Room Lights. Paintable!
+#4 Room Lights. Paintable!
+#5 Room Lights. Paintable!
+#6 Room Lights. Paintable!
+#7 Room Lights. Paintable!
+#8 Room Lights. Paintable!
+Paintable light that only works in Rooms.
+Paintable light that only works in Rooms.
+Paintable light that only works in Rooms.
+Paintable light that only works in Rooms.
+Paintable light that only works in Rooms.
+This Room light will alert you to CPH attacks silently.
+Paintable light that only works in Rooms.
+Paintable light that only works in Rooms.
+Uses Paste - you'll lose Paste if you dig it up, so place with care!
+Requires the Dapper DLC Pack
+Requires the Dapper DLC Pack
+Requires the Dapper DLC Pack
+Requires the Dapper DLC Pack
+Uses Paste - you'll lose Paste if you dig it up, so place with care!
+Requires the Dapper DLC Pack
+Requires the Dapper DLC Pack
+Basic MedBay
+Place on a wall in a room, give it power, and stand near it to heal.
+Place on a wall in a room, give it power, and stand near it to heal.
+No hint. It's that simple.
+Place Plant Seeds onto these to grow them.
+Grows plants much faster.
+Advanced Hydroponics Bay
+Grows plants much faster. Maybe requires power, haven't decided.
+Place Plant Seeds onto these to grow them.
+Grows plants much faster.
+MK1 Ampule
+MK2 Ampule
+MK3 Ampule
+MK4 Ampule
+MK5 Ampule
+Regenerates Health over a fixed amount of time.
+Place in Suitinventory to auto use
+Iron Gear Maker
+Creates Iron Gears.
+A machine that supports autocrafting of Iron Bars into Iron Gears.
+Much more efficient than doing it by hand!
+THIS IS INCORRECT LOCATE IT AND FIX THE CASE
+AirLock Inner
+Not relevant.
+AirLock Inner
+Connects Rooms to Airlocks
+Connects Rooms to Airlocks.
+Build in a 3x3x1 or 1x3x3 layout, with a gap of 3 metres from the Outer Airlock.
+THIS IS INCORRECT LOCATE IT AND FIX THE CASE
+AirLock Outer
+Not relevant.
+AirLock Outer
+Connects Airlocks to the Outside
+Connects Airlocks to the outside.
+Build in a 3x3x1 or 1x3x3 layout, with a gap of 3 metres from the Inner Airlock.
+Reinforced Plated Room Floor
+Paintable, reinforced floor, specifically designed for Rooms.
+Paintable, reinforced floor, specifically designed for Rooms.
+Uses Paste - you'll lose Paste if you dig it up, so place with care!
+Room Decoration 1
+Reinforced wall decoration, specifically designed for Rooms.
+Reinforced wall decoration, specifically designed for Rooms.
+Uses Paste - you'll lose Paste if you dig it up, so place with care!
+Alloyed Space Window
+Paintable, reinforced window.
+Paintable, reinforced window. Not recommended for use in Rooms.
+Uses Paste - you'll lose Paste if you dig it up, so place with care!
+Room Ventilation Grille
+Filters particulates out of the room.
+Use this to improve the Clean rating of your room, required to hit Clean Room designation.
+You need 1 per 150m3 of the room.
+Reinforced Plating
+Reinforced, Paintable Wall designed for Rooms.
+Paintable, reinforced wall, specifically designed for Rooms.
+Uses Paste - you'll lose Paste if you dig it up, so place with care!
+Room Wall Panel
+None
+Paintable, reinforced wall, specifically designed for Rooms.
+Uses Paste - you'll lose Paste if you dig it up, so place with care!
+Room Light Reflector
+None
+Reinforced ceiling reflector, specifically designed for Rooms.
+Uses Paste - you'll lose Paste if you dig it up, so place with care!
+Logistics Grommet
+Conveyors transfer items through this.
+Conveyors transfer items through this.
+Use this to transfer items in and out of rooms cleanly.
+Energy Grommet
+PTGs, Solar Panels and PSBs will transfer power through this.
+PTGs, Solar Panels and PSBs will transfer power through this.
+Use this to transfer energy in and out of rooms cleanly.
+Room Extractor Fan
+Use this to exhaust Toxic particles from your room.
+Future machine - use this to improve the Toxic rating of your room, allowing you to survive in Toxic areas.
+You need 1 per 150m3 of the room.
+Reinforced Plated Room Wall
+None
+Paintable, reinforced wall, specifically designed for Rooms.
+Uses Paste - you'll lose Paste if you dig it up, so place with care!
+BaubleBerry Seed
+BaubleBerry Seeds
+Tri Seed
+Tri Seeds
+UnderGrump Seed
+UnderGrump Seeds
+GoopyDangler Seed
+GoopyDangler Seeds
+Coxcomb Seed
+Coxcomb Seeds
+LeafyDangler Seed
+LeafyDangler Seeds
+TundraBreath Seed
+TundraBreath Seeds
+Super Construction Paste Grinder
+Uses 'garbage' or Coal blocks to make Construction Paste at a 1:8 ratio.
+Converts useless garbage and Coal into Construction Paste. All aesthetic blocks use construction paste!
+Only works if you have the Dapper Indie Supporter DLC.
+Lightweight Machine Housing Crafter
+Turns 6 plates into 1 Housing.
+A machine that supports autocrafting of Tin Plates into Lightweight Machine Housings.
+Much more efficient than doing it by hand!
+Priority Splitter
+Sends all incoming items Right, unless blocked, then Left.
+Sends all incoming items Right, unless blocked, then Left.
+Connect directly to conveyor belts or Hoppers. Only works correctly if both sides have an output.
+HerbiCor
+Collects nearby outdoor unharvested Plants and returns them.
+Needs attached storage hopper.
+Collects nearby outdoor unharvested Plants and returns them. Requires attached Storage Hopper.
+Also good for framerate!
+Generic Room Controller
+Creates a Room. Will give information about the Room itself
+Place in a Room and follow the instructions.
+Build it on the floor. Instructions are in the bottom left once you do!
+Ampule Dispenser
+Place above an Ampule Crafter
+Use to craft and upgrade Ampules from an attached Ampule Crafter
+Carry one. ALWAYS carry one. (Put into suit inventory to fire automatically)
+Ampule Crafter
+Place below an Ampule Dispenser, attached to a Storage Hopper of plants.
+Use to craft and upgrade Ampules into an attached Ampule Crafter
+Carry one. ALWAYS carry one. (Put into suit inventory to fire automatically)
+Base Scanner
+Place in a room. Observe. Learn. Progress!
+A filterable, real-time graph monitoring every aspect of your base's performance.
+Place in a room. Observe. Learn. Progress!
+I Understand
+Low-end computer detected!
+Only 2 Logical/Physical CPUs detected. Your PC is at or below the minimum requirements for FortressCraft, and you may experience a number of visual or performance issues. Threaded visibility has been disabled.
+INTEL VIDEO CARD DETECTED!
+FortressCraft has detected that you're running on an {0} - if you are using a gaming laptop, then please use the high-performance card! If this is your only video card, then you are likely to experience a number of visual or performance issues.
+Fastest detail selected!!
+FortressCraft has detected that you're running on FASTEST detail. This detail setting is designed only for very low-spec computers with a minimal amount of RAM, and it is not really recommended for normal gameplay. You will have pop-in, low poly models and blurry textures.
+Low Texture Detail selected!!
+FortressCraft has detected that you're running on LOW texture detail. This detail setting is design only for very LOW-MEMORY computers with a minimal amount of RAM. It does NOT increase performance or FPS, and it is NOT recommended for normal gameplay. You will experience blurry textures.
+World Validation
+World Validation is Complete
+Your world is being converted to a new format, please wait.
+Current Progress: {0}%
+{0} completed of {1}!
+
+Conversion Time {0}h:{1}m:{2}s of estimated {3}h:{4}m:{5}s
+World Conversion
+Your movement has been paused!
+
+You may have moved outside of the loaded world.
+Please wait a short while for your disk or network connection to catch up.
+If this happens often in single player please check your anti-virus software is not interfering.
+
+Count is now {0}
+Attached to Lift
+Compressor Active!
+Compressor Idle.
+Tier 1 Vertically-Extending Central Piston Lift
+Current Range: {0}
+Adjust range by holding (Q) or (E).
+Powered compressor required beyond {0}m
+Lifts limited to 64m for network clients. Sorry!
+Current Pressure : {0}/{1}bar
+Lift is under Manual Control
+Stored Pressure : {0}bar
+Work complete. No blocks to shoot
+Scanning for Hardened Resin - {0} complete.
+Clearing area - {0} complete.
+Ablated {0} blocks
+Scan Size : {0}
+Scanning for Ablated Resin - {0} complete
+Liquified {0} blocks
+Press Q to Reset
+Please place facing a Conveyor!
+Please place facing a Conveyor or Scrap Track!
+Upgrade complete - {0} conveyors upgraded
+Upgrade complete - {0} track upgraded
+Low Power!
+Need Attached Hopper!
+Unable to locate conveyors to upgrade with!
+Unable to locate material to upgrade with!
+Search Distance {0}m
+Conversions {0}
+Blocked! Please check and clear!
+Build complete!
+Needs {0} more Power
+Looking for valid attached Storage Hopper!
+Looking for Basic Conveyors...
+Looking for Conveyors...
+Looking for Transport Pipes...
+Looking for Minecart Tracks...
+Build Distance is {0}
+Build Distance is {0} using:
+Basic Conveyors
+Transport Pipes
+Minecart Tracks
+Time left: {0}s
+Items Added : {0}. Items found {1}.
+SpiderBot Recharge and Docking Bay
+SpiderBot Power {0}/{1}
+Holding [{0}] ready for Spiderbot! 
+Bay ready to receive items
+Bay offloading final item to SpiderBot before undock
+SpiderBot is Docking
+SpiderBot is Docked and awaiting resources!
+SpiderBot is Defending!
+Hint : Connect Hoppers with Charged Lithium Coils to power SpiderBot
+ERROR! LET DJ KNOW THAT YOU HAVE A SPIDERBASE NOT IN THE ENTITYMANAGER!
+Internal Power: {0}/{1}
+Illegal placement!
+MK2 Solar Arrays must be placed on:
+MK4 Batteries
+MK5 Batteries
+Refineries
+Not collecting! Cannot see the sun!
+Collecting at rate of {0} power per second
+Not collecting! Sun is below horizon!
+Collecting novalight at a reduced rate of {0} power per second
+MK4 Power Storage
+MK5 Power Storage
+Power In: {0} (Avg: {1})
+Power Out: {0} (Avg: {1})
+Located {0} attached Power Consumers
+T4 Conduit
+Must be built upright!
+Collecting at rate of {0}%
+Current Rate is {0} PPS.
+Organic Solar Panel
+Collecting Novalight at reduced rate of {0}%
+Solar Panel
+Not collecting! Sun is below horizon!
+Sun rises in {0} minutes
+Vat not formed after loading. Bug!
+Connected to Controller
+Processing {0}
+Not connected to Controller
+Vat State: {0}
+Controller State: {0}
+Connected to {0} reactor vat
+Stored (Q): {0}x {1}
+Selected Recipe (E): {0} 
+ {1}
+Processing {0}, {1} complete
+Not connected to a reactor vat.
+Must be connected in order to operate.
+Tank: {0}, Operating {1}
+Link State: {0}
+Fuel Level: {0}
+Current Power/Second: {0}
+Not Collecting. (E) to Toggle
+(E) to Toggle
+MK1 Robot Arm" +"
+" + "Status: {0} 
+ {1}
+Burn Time {0}s
+Active {0}s of the last {1}s
+Efficency: {0}
+PTG is starved of oxygen!
+PTG cannot function this deep!
+ERROR - No centre?
+Stack: 1 Crate
+Stack: {0} Crates
+Total Storage: {0}
+Power Delta: {0}
+T to Store power
+Q to Retrieve power
+Automated Zipper Merge
+(Patent Pending)
+Zipper Merge (Three'n'One edition!)
+(Patent Pending)
+Rapid Zipper Merge
+(Patent Pending)
+Bender Plant
+Pipe Extruder Plant
+Converts Bars into Tubes
+Extruder Plant
+Converts Bars into Wires
+Bender Plant
+Bends in sorts of Angles
+Stamper Plant
+Takes Bars from a Conveyor, converts to Plates and then offloads to another Conveyor.
+Coiler Plant
+Wires into Coils
+PCB Assembler
+Converts Coils into PCBs
+Conveyor Turntable
+Evenly splits resources.
+Basic Conveyor
+Upgrade as soon as you can!
+Advanced Conveyor Filter
+Sorting Items since 1291 A.D.
+Transport Pipe
+Rapid Armoured transportation.
+Conveyor Belt Filter
+Transport Pipe Filter
+Motorised Conveyor
+Ultra-fast Storage Hopper connector.
+(R) and (Shift+R) to Rotate
+Items transported: {0} at {1}/min
+Conveyor Blocked!
+Transporting: {0}
+(E) Set Filter to {0}
+Shift (E) Set Filter to {0}
+Press E to smash the ice!
+WARNING - FROZEN!
+Filter set to everything EXCEPT: [{0}]
+Filter set to : [{0}]
+Press T to invert filter.
+Select an item in your Hotbar to use as an Exemplar
+Press Q to set Output to {0}
+Error, Conveyor filter can't deal with [{0}]
+WARNING - INFESTED! - See Handbook (H)
+ALL types
+GARBAGE
+COMBUSTIBLE types
+ORE
+NOTHING
+CRYSTALS
+GEMS
+BIOMASS
+BARS ONLY
+ORGANIC ITEMS
+CRAFTED ITEMS
+SMELTABLE
+RESEARCHABLE
+UNKNOWN
+Current Power: {0}
+Power to fire
+Success/Fail: {0}/{1}
+Press (E) to open interface
+No Location Marker installed
+Location Marker does not contain a marked location
+Target is {0}m away
+Stand on teleporter and press jump to activate
+T-Minus {0}
+FlightTime: {0}
+Press Q to self destruct.
+USER ABORT
+Launch in progres...
+Press Q to scan construction
+Fuel Efficiency: {0}
+Engine Smoothness: {0}
+Engine Power: {0}
+Rocket has {0} Parts and is {1}m tall
+Rocket weighs {0}t and has {1}kN thrust.
+Delta/V: {0}m/s
+Dry mass {0}t, Fuel mass {1}t
+Rocket is launch-capable.
+NEEDS {0} THRUST!
+Press E to launch your rocket ship
+LP had no Entity?
+LightMode {0}
+(E) to cycle LightMode
+Attached is empty - active!
+Attached is empty - inactive!
+Attached is not empty - inactive!
+Attached is not empty - active!
+Looking for machine
+Error value of {0}
+Basic Missile Turret
+Dualshot Turret
+Tri-shot Turret
+Quad-launcher
+No missiles loaded!
+Can't find Missiles in attached Hopper!
+{0} missiles loaded!
+Next shot's damage is {0}
+Reloading for {0}s
+Searching for Large Targets...
+Aiming...
+Attacking ! [{0} HP left!]
+Client Delay: {0}
+Turret
+Searching... (Considered {0}  targets!)
+Shots: {0}. Kills: {1}. Damage: {2}
+Press E to show turret range
+Track Straight
+Track Corner
+Track Slope
+Minecart Buffer
+Minecart Full Gate
+Minecart Empty Gate
+Track One Way
+Scrap Track Straight
+Scrap Track Corner
+Scrap Track Slope
+Scrap Track One Way
+Please wait, processing...
+Please attach a Hopper
+Please place a Minecart into the Hopper!
+Cart here with {0} items, {1}s before leaving
+Cannot find any hoppers!
+Unable to find resources in attached hoppers!
+Awaiting Cart
+Holding {0}
+Station empty
+Station has dealt with {0} carts
+All surface attacks neutralised.
+CryoPlasm detected at {0}m!
+Threat Scanner (Client)
+Kills: {0}
+Attack: {0}
+Base Rating: {0}
+Heavy Chance : 0%
+Heavies expected: {0} (approx)
+Boss Chance : 0%
+Bosses expected: {0} (approx)
+No threats detected...
+Next Attack: {0}s
+Power: {0}%
+Base Rating approx {0}
+(Agitator Threat {0}) + {1} mob bonus
+Calmer reducing threat by {0}
+Calmers offline due to OET charging!
+Mobs: {0}, Heavies: {1}, Bosses: {2}
+Attack underway, {0} killed
+Wave {0}/{1}
+Next spawns in {0}
+{0} left to spawn!
+You've killed {0} mobs in {1} waves, and lost {2} times
+No threats detected...
+ATTACK IMMINENT!
+Attack estimated in {0} minutes
+Last Attack. Kills: {0}, Power Used: {1}
+Mob Spawner
+Type: {0}
+Press E to spawn a {0}
+At Depth {0}m
+Found {0} smeltable Ore.
+Found {0} coal.
+Found {0} crystals.
+Found {0} non-ore Blocks.
+Quarry
+Quarry is unable to draw sufficient O2 for cooling!
+Please move the Quarry close to the surface.
+Thank you!
+Quarry cannot locate Input Hopper
+This should contain Red and White Chevrons
+Quarry cannot locate Health and Safety Resources!
+Quarry needs more Red and White Chevrons
+Place these in an attached Storage Hopper
+Quarry currently constructing Edge Warning
+SAFETY FIRST!
+Quarry cannot find Output Hopper
+All output hoppers full or locked!
+Press E to confirm Quarry position
+Power Low ({0} needed to dig, {1} available)
+Found {0} in {1} ore blocks
+Work Ratio {0}
+Total Idle Time: {0}
+(E to reset)
+State: {0}
+Forward Connected
+Backward Connected
+Fully Connected
+Timer: {0}
+You have an old and bugged machine in your world
+. I recommend you macerate this one, then make a brand new one, with my apologies - DjArcas
+Desires {0}PPS. Current PPS: {1}
+{0} {1} ({2}s left)
+No valid Hoppers found (Locked or Full?). 
+All attached conveyors missing or blocked!
+Crafting: {0}s
+Place resources in attached Hoppers.
+{0} more power needed!
+Combines 6xPlates and 2xPCBs into Research Pods
+Basic Pods need Copper Plates and Basic PCBs
+Simplified Pods need Tin Plates and Primary PCBs
+Intermediate Pods need Iron Plates and Hardened PCBs
+Charged Pods need Lithium Plates and Charged PCBs
+Advanced Pods need Gold Plates and Conductive PCBs
+XL Pods need Nickel Plates and Fortified PCBs
+Ultimate Pods need Titanium Plates and Lightweight PCBs
+Orbital Power Transmitter
+{0} charged
+Charge Rate {0}/sec.
+Press (E) to interact
+Power available : LOW. Supply more power for faster research.
+Power available : MEDIUM. Research not at optimal speeds.
+Power available : OPTIMAL. Research at full speed. More power may give a small boost.
+Mode: {0}
+Project: {0}
+Progress: {0}
+Current Item: {0}
+Decomposition Progress: {0}
+Banked Research Points: {0}
+Unlinked multiblock
+Placing and verifying pipes.
+Pipe drill stuck on hard obstacle. Please remove.
+Can't locate pipes in adjacent Storage Hopper!
+Optimal temperature differential reached!
+Power per second: {0}
+Selected recipe: {0}
+Output full, can't continue
+Currently crafting {0}
+Tutorial active!
+Press E to open the CPH then click Add Resources!
+Coal Burn Efficiency: {0}
+Press E to configure
+{0}% damaged
+Defensive Missiles Fired: {0}
+Time of Day: {0} ({1})
+Research Station
+Process scans and research new technologies.
+Power: {0}/{1}
+Press E to open
+
+Research Station
+Press E to close
+
+Fusion Power Monitor
+Core status:
+Fuel: {0}
+Generating: {0:N0} PPS
+Cooldown period: {0:N1}s
+Required Charge level for ignition: {0:N0}
+(E) to add Fuel
+(T) to Ignite
+Core diameter: {0} (T)
+Pylon size: {0}
+Offset: {0} (Q - E)
+ServoMotor
+Accurate, fast, low Torque Motor
+Minimal torque.
+Accurate and fast motor. Difficult to make by hand, easier to automate.
+Everything EXEPT
+Filter set to
+Servomotor Maker
+Turns 3 Wires into 1 Servo Motor.
+Much more efficient than doing it by hand!
+A machine that supports autocrafting of Copper Wires into Servo Motors.
+SUPER H.E.I.S.T.
+Like the H.E.I.S.T. only 16 times faster.
+No time for lazy!
+Automatically removes items from adjacent Storage Hoppers and transmits it to player within 8 metres - SUPER FAST!
+Attack Scanner
+Place somewhere obvious!
+Subtle is no good. Subtle is dead!
+Allows a REALLY OBVIOUS way of reminding yourself how long before an attack.
+Super Heist!
+Room-based CryoCloner
+Basic Robotic Sorter
+Allows simple bus setups.
+Automatically moves a specified item between conveyors.
+Use this for a basic Bussing system.
+Upgraded Robotic Sorter
+Allows faster bus setups.
+Automatically moves a specified item between conveyors.
+Use this for a faster Bussing system.
+Bulk Robotic Sorter
+Allows for the fastest bus setups.
+Automatically moves a specified item between conveyors.
+Use this for the fastest Bussing system.
+Intermediate Robotic Sorter
+Allows fast bus setups.
+Automatically moves a specified item between conveyors.
+Use this for an intermediate Bussing system.
+(or drag from (I)nventory)
+ARTHER now charging {0}
+Ray Gun V1
+V1 Ray Guns
+This will allow you to gently scratch the local life forms, but may be useful to clear weak, defenseless creatures. Press V to select.
+Suit Item! You only need 1!
+Upgraded Crystal Scanner
+Upgraded Crystal Scanners
+This will let you see the closest Crystal when Pinging. Press M to select.
+Suit Item! You only need 1!
+Advanced Crystal Scanner
+Advanced Crystal Scanners
+This will let you see ALL Crystals when Pinging! Press M to select.
+Suit Item! You only need 1!
+Mandragora Seed
+Mandragora Seeds
+ConstructoBot Coppator Arms
+ConstructoBot Herb Arm
+ConstructoBot Herb Arms
+Room Air Scrubber
+DON'T BOTHER BUILDING THIS YET!
+Use this to improve the Bio-Filter Rating of your room.
+This allows you to offset the effects of the Toxic Cavern.
+ConstructoBot Herb Arm Assembler
+Crafts ConstructoBot Herb Arms.
+Assembles ConstructoBot Herb Arms.
+Arms that deal with Plants.
+Cloning Vat
+Not relevant.
+Place on a room to make dying more convenient.
+Build in a 1x3x1 layout, using 3 in total.
+SpiderCor
+Collects nearby outdoor unharvested Plants and returns them.\nNeeds attached storage hopper.
+Automatically collects marked loot from FALCOR Beacons mounted on SpiderBot. Requires attached Storage Hopper.
+Ideal for Wasp drops!
+ConstructoBot Crate
+A Logistics-compatible Robot in a crate!
+S.A.R.A.H Dock
+Place to give acces to the Storage And Retrieval Automated Hauler
+Cloning Bay
+Place in a room, give it power, and dying becomes less annoying.
+Room Heater
+Used in the Cold Cavern to reduce suit power usage.
+Place in a Room to offset the Cold.
+Examine the Room Controller for your Room's current rating.
+Room Cooler
+Used in the Magma Cavern to reduce suit power usage.
+Place in a Room to offset the Heat.
+Examine the Room Controller for your Room's current rating.
+Room Vaporator
+Use to increase the rate of Plant growth inside your rooms.
+Place in a Room to increase the growth rate of Plants
+Examine the Room Controller for your Room's current rating.
+Imbues Lithium Coils with Energy. Feed into the SpiderBot Upgrade and Recharge Dock via a Storage Hopper.
+SpiderBot needs energy to defend your base with.
+Composites Coal Ore and High Energy Composite Fuel into High Octane Fuel. Build in a 3x3x3 layout.
+Use to bore out straight tunnels
+Scanning for items...
+Falcor en-route!
+No free FALCOR to collect!
+Beacons require power to digiport items!
+Beacons require skyclearance; please clear above the beacon!
+Mounted on top of Storage Hopper; only Logistics FALCORs can service
+FALCOR
+Calculating route to Target.
+Travelling to Target.
+Dropping off item.
+Collecting item.
+No hoppers found. FALCOR cannot offload
+All hoppers locked or full! FALCOR cannot offload
+Press (T) to transfer [{0}]
+Connected to host {0}
+Survival mode server
+Creative mode server
+Dedicated server
+Locally-hosted server
+Server Uptime : {0}
+MUST BE BUILT INSIDE A ROOM
+Plant planted!
+{0} grown
+No plant detected
+Planted!
+Warning CryoPlasma detected at {0}m!
+Surface Map Status
+Complete
+Surface Map Status
+Scanning...
+Build a room!
+Scanning for Room Extents...
+Cannot locate 4 walls!
+Cannot locate ceiling!
+Room controller works best on the floor!
+Ceiling too low! Is controller under something?
+Verifying Room Requirements...
+Located air block in wall? (Look for red error block!)
+Rooms do not support transparent blocks! (Look for red error block!)
+Rooms cannot have machines as walls! (Look for red error block!)
+Inner Airlock unable to locate matching valid Outer airlock? (Look for red error block!)
+Error: {0}
+Room Working...
+{0} machines inside the room!
+Room Volume {0}m³ with {1} Fans and {2} Filters
+Clean Rating: {0}
+Bio-Filter Rating: {0}
+Heat Rating: {0}
+Cold Rating: {0}
+Greenhouse Rating: {0}
+No room classification found
+Error. GeoThermal is too far from the CCCCC and cannot communicate. Maximum transmission range is 320 metres
+AirLock
+Airlock needs a matching pair with a gap of 3 metres in front or behind it
+Airlock without an Room Controller owner will just open if you go near it.
+THIS DOOR CONFERS NO PERFORMANCE BENEFIT
+Airlock linked to RoomID {0}
+Player Room ID {0}
+Player AirLock ID {0}
+Unloading {0}
+Power Transmitted : {0} over {1}s ({2} PPS)
+Laser has impacted wall - please re-align!
+Laser has found nothing - please re-align!
+Laser searching for Power Interface Consumer ({0}/{1})
+Press E to put materials into the smelter!
+Or place a Hopper next to it.
+Need more {0}!
+Press E to put MORE materials into the smelter!
+{1} ore ready for smelting!
+Smelter heating: {0}/{1}°C
+{0} raw {1} ready for smelting!
+Smelting {0}. {1}% complete
+{2} more ore ready for smelting!
+Power {0}% ({1}PPS)
+Press (Q) to retrieve materials
+Smelter is starved of oxygen!
+Smelter cannot function this deep!
+Efficiency: {0} - (Q to Reset)
+Laser Power Transmitter MK1
+Laser Power Transmitter MK2
+Laser Power Transmitter MK3
+Scanning for Targets - {0} complete.
+Destroyed {0} Blocks!
+Shots: {0}, Kills {1}
+(E) to have ARTHER mount!
+Transporting everything EXCEPT {0}
+{0} servers online
+Version Mismatch: {0} should have been {1}
+Server full: {0} maximum
+Banned
+Not Whitelisted
+Connected to [{0}] at dist of {1}m
+Discharging at {0}m
+Rotating to new Direction
+Searching for Cryo
+Charging up system
+Getting Ready to Fire
+Cooling down Barrels
+Total of {0} items needed
+No resources in attached Hopper?
+Attempting to drop {0} into hopper!
+Crafted {0}
+Cannot locate {0}x {1}
+{0}x {1} needed
+Found {0} of {1} items.
+You're only allowed one CCCCC!
+DISCONNECTED
+Press (T) to Sort [{0}]
+Not collecting
+Collecting {0}
+Spawn set!
+{0} Power.
+Cool. Geddit?
+I need Carry Arms!
+I need Herb Arms!
+My arms are full!
+NONE
+Req.{0}
+Clearing!
+Kill!
+Boom!
+Reloading!
+CPH Initialising...
+Crafting
+Emergency Orange Light
+Emergency Red Light
+Emergency Strobe Light
+Uhm... run?
+BOSS RUSH x {0}
+Happy Feet!
+BUILD {0} ROBOTS!
+Let it go...
+The floor is now lava...
+It's coarse and rough and irritating and it gets everywhere.
+...if you're brave enough..
+...don't lick it.
+I hope you have a V2 build gun...
+Critical Failure!
+Epic Fail!
+Unlucky!
+No strong feelings one way or the other!
+Lucky!
+Great Success!
+A winner is you!
+Natural 20!
+Perfection!
+Chevron Radiation
+Caution, Radiation Ahead!
+Caution, Radiation Ahead!
+Caution, Radiation Ahead!
+Chevron First Aid
+First AidKit nearby (hopefully)
+First AidKit nearby (hopefully)
+First AidKit nearby (hopefully)
+Chevron Aisle Marking
+Storage Area Closeby, Hart Hats required
+Storage Area Closeby, Hart Hats required
+Storage Area Closeby, Hart Hats required
+Chevron Traffic
+Beware of Cargohauling Equiptment
+Beware of Cargohauling Equiptment
+Beware of Cargohauling Equiptment
+Chevron Defective Machinery
+Caution, Defective Machine, handle with Care
+Caution, Defective Machine, handle with Care
+Caution, Defective Machine, handle with Care
+Directional Storage Hopper
+Error, cannot offload to MultiBlock machines!
+Identical to a normal Storage Hopper, but can only output in one direction. Use R to rotate.
+Stores up to 100 resources and transfers quickly. Use to automate other machines. Only outputs in one direction.
+Use for compact setups!
+Primary Upgrade Module Maker
+PUM MAKER DESC
+Makes Primary Upgrade Modules.
+Primary Upgrade Modules are used in many low-tier machines.
+Primary Upgrade Module
+Primary Upgrade Modules
+Secondary Upgrade Module Maker
+Makes Secondary Upgrade Modules
+Makes Secondary Upgrade Modules.
+Secondary Upgrade Modules are used in many mid-tier machines.
+Secondary Upgrade Module
+Secondary Upgrade Modules
+Alloyed Upgrade Module Maker
+Makes Alloyed Upgrade Modules
+Makes Alloyed Upgrade Modules
+Alloyed Upgrade Modules are used in many high-tier machines.
+Alloyed Upgrade Module
+Alloyed Upgrade Modules
+Ultimate Upgrade Module Maker
+Makes Ultimate Upgrade Modules
+Makes Ultimate Upgrade Modules
+Ultimate Upgrade Modules are used in a select few high-tier machines.
+Ultimate Upgrade Module
+Ultimate Upgrade Modules
+Not used
+Not used
+Not used
+Not used
+Freight Cart Station
+Supplies freight carts with designated resources as demanded by other freight stations.
+Supplies freight network with designated resources from hoppers or mass storage.
+Intelligent resource distribution.
+Freight System Monitor
+Panel for accessing information about your freight networks.
+Displays useful information about your freight system.
+See all the items!
+Freight Cart Depot
+Lanches and recalls freight carts as needed to serve freight cart stations.
+Used to place Freight Carts onto Tracks from an attached Storage Hopper.
+Only launches carts to stations that need them.
+Tour Cart Station
+Station for deploying tour carts to travel to distant locations.
+Travel between stations automatically by rail.
+Uses tour carts from your inventory or an accessible hopper.
+Track Junction
+Allows Freight Carts to travel multiple directions.
+A track piece that allows carts to travel multiple directions.
+Travel the world!
+Scrap Track Junction
+Allows Freight Carts to travel multiple directions at low speeds.
+A track piece that allows carts to travel multiple directions at low speeds.
+Travel the World!
+Scrap Track Straight
+Allows freight carts to travel in a straight line at low speeds.
+A simple, low speed straight track piece for freight carts.
+None
+Scrap Track Corner
+Allows freight carts to travel around corners at low speeds.
+A simple, low speed corner track piece for freight carts.
+None
+Scrap Track Slope
+Allows freight carts to travel up and down slopes at low speeds.
+A simple, low speed inclined track piece for freight carts.
+None
+Scrap One Way Track
+Directs Freight Carts in one direction at low speeds.
+A directional, low speed straight track piece for freight carts.
+Prevent collisions by directing cart traffic.
+One Way Track
+Directs Freight Carts in one direction
+A directional straight track piece.
+Prevent collisions by directing cart traffic.
+Scrap Freight Cart
+Scrap Freight Carts
+Low-speed cart with 5 capacity, designed for transporting all items.
+Gets items where they're needed... slowly
+Scrap Ore Freighter
+Scrap Ore Freighters
+Low-speed cart with capacity for 50 ore
+Gets items where they're needed... slowly
+Basic Ore Freighter
+Basic Ore Freighters
+Freight cart with 500 ore capacity.
+Can only carry one kind of ore at once.
+Fast Ore Freighter
+Fast Ore Freighters
+Fast Freight cart with 500 ore capacity.
+Can only carry one kind of ore at once.
+Large Ore Freighter
+Large Ore Freighters
+Freight cart with 1000 ore capacity.
+Can only carry one kind of ore at once.
+Bulk Ore Freighter
+Bulk Ore Freighters
+Fast Freight cart with 1000 ore capacity.
+Can only carry one kind of ore at once.
+Bulk Gas Freighter
+Bulk Gas Freighters
+Fast Freight cart with 1000 gas capacity.
+Can only carry one kind of gas at once.
+Basic Tour Cart
+Basic Tour Carts
+Travel by way of Tour Cart Stations.
+Functions only with Tour Cart Stations.
+ERROR: No valid track connection found!
+No filled hoppers found
+No valid deposit hoppers
+No valid return path to this depot
+No valid outgoing track connection
+All station cart assignments are satisfied
+1 station requires carts
+{0} stations require carts
+Cart found does not meet station requirements
+No suitable cart found for station {0}
+Station Accepts {0}
+Depot is currently blocked
+Illegal placement! Carts cannot drive up walls!
+No work for station {0}
+Cart could not find route to this depot!
+Freight Cart Station ({0})
+Freight Cart Station (ID: {0})
+NO NETWORK
+Press E to configure this station
+This station is fully stocked!
+Top requests for this station:
+This station has nothing to offer!
+Top offers from this station:
+Press (T) to transfer [{0}]
+Node ID: {0}
+Freight Cart Station {0} could not deposit item into storage.  Storage is full.
+Any
+T2/T3+
+T4 only
+Ore Freighters Only
+T2/T3+ Ore Freighters
+T4 Ore Freighters
+No Ore Freighters
+No Scrap Carts
+Station cannot find hopper or mass storage
+Assignment Filters
+Set Tier
+Set Type
+Scrap Carts
+Basic Carts
+Fast Carts
+Large Carts
+Bulk Carts
+All Purpose
+Ore Freighters
+Gas Freighters
+No where to offload excess {0}!
+Traveling to {0}
+Returning to depot
+Ore Freighter Idling
+Gas Freighter Idling
+Cannot find a depot to park
+Offloading excess freight
+No where to offload excess freight
+Station {0} is full
+Cannot route to station {0}
+No accessible destination station
+Press E to access Freight System Status
+Location: {0}
+Press E to access the list of destinations
+Press E to set this location's name
+{0} Tour Carts available
+Track Network ID: {0}
+No demand for offered {0}
+No source for requested {0}
+Track Junction (ID: {0})
+{0} valid track connections
+Track lengths: {0}
+Press Q to reset the junction
+No valid track connections detected
+Locations: {0}
+Set Name
+Enter Station Name
+Select Tour Cart Destination
+Change Name
+Add Additional Tour Cart Stations
+to Track Network"
+Connect Tour Cart Station to
+a Freight Track Network
+Set Network
+Enter Network ID
+Set Mass Storage Name
+Enter Storage Name
+Name
+Network
+No Storage
+Name Storage
+Set Freight
+Cart Assignment
+Add Cart
+Remove Cart
+Active / Requested
+Wait for {0}
+Load Orders
+Cart Filter
+Register Freight
+Done
+Add New Freight
+Target Stock: 
+Decrease Stock
+Increase Stock
+Help
+Waiting for server...
+Servicing freight for:
+Item to Stock
+Or select existing
+Freight Config Help
+Close
+This example shows a simple manufacturing station for tin goods. Tin bars are supplied and tin plates and lightweight machine housings are shipped out.
+Target inventory is set to 200 for tin bars to have carts bring enough to the station to keep plenty on hand for crafting into higher tier components.
+Tin plates are stocked at a lesser quantity as some are needed available to convert to housings.
+Lightweight machine housings target of 0 allows carts to take all of them for distribution to other stations as none are required on hand for further processing.
+Handbook
+See the handbook for additional details.
+Connect to freight provider
+Connect Station to Mass Storage
+Last Network
+All Inventory
+Select Network
+Transport Grid
+View Inventory
+Next Network
+Viewing status of freight network: 
+Surplus
+Deficit
+In Transit
+Inventory
+No freight networks found...
+Network Status
+No transport grid found...
+(Click to expand)
+ID: {0}   {1}  Locations
+Carts: {0} / {1}
+Carts: {0} / Free Slots: {1}
+Name - Network ID   {0} cart en route
+Name - Network ID   {0} carts en route
+Inventory: {0} / {1}
+Estimated arrival in {0} seconds
+Loading at station '{0}'
+Unloading at station '{0}'
+Travelling to station '{0}'
+Idling at '{0}'
+Awaiting clear path to '{0}'
+Inventory is empty
+Order by Count
+Order by Name
+Last Storage
+Next Storage
+Viewing inventory of mass storage: 
+Freight status help    {0} / {1}
+Next Page
+Last Page
+Surplus is the sum of the excess items in storage above the stations' target inventory.  It indicates how much is available for carts to collect for delivery.
+Deficit is the sum required to safisfy all stations' inventory targets.  It indicates how much must be delivered to satisfy all stations.
+Inventory is the sum of the item that is found across all storage containers that is associated with this freight network.
+In transit quantity is the sum of the item that carts are currently carrying for delivery. Carts never collect more than is required to satisfy the deficit.
+This example shows healthy status for a particular item on the freight network.
+The deficit implies the item is needed but a healthy surplus will more than cover for the total demand.
+Current quantity in transit shows that several carts are at work to meet the demand.
+Surplus and deficit are color coded to provide the relative health of the system at a glance.
+A low surplus may lead to a hold in deliveries due to a supply shortage as the deficit (demand) exceeds available plates.
+The inventory is fairly healthy so it may be possible to decrese the supply storage's target inventory to inject extra in an emergency.
+If the surplus remains low it may be time to increase production.
+None
+Stations appear to both offer and request goods on this network but no goods are in transit.  Why might this be?
+Carts must be assigned to stations for depots to send carts to work.  Carts in the depots must also satisfy any filter for the cart assignment.
+Depots will indicate what is required to send another cart or whether station needs are all satisfied.
+If carts are assigned they will indicate with a red flashing light if they cannot find a path to their target.
+Carts will only collect as much as the current deficit to avoid having excess that is not needed.
+This can slow transfer of items between stations as additional carts will not be able to collect any more items.
+Increasing a station's target inventory will increase the deficit and the maximum number of items that can be transferred at once.
+A larger target inventory at the destination also provides a bigger buffer to allow time for carts to make further deliveries.
+CryoInferno
+Searching for CryoInferno...
+Build a CryoInferno!
+Out of Magma!
+Can't see Spawner!
+Burning CryoSpawner!
+No CryoSpawner in range.
+Please Purchase the Adventures Pack to continue!
+Build the Orbital Railgun!
+Orbital Railgun
+Kill all CryoSpawners and Surface Mobs!
+Verifying Clearance
+Looking for Alloyed Machine Blocks!
+Building Tube.
+Rings Cooling and Fuelling.
+Digistructing Slug.
+Firing!
+Looking to offload!
+Ready for firing.
+Eliminate all the Cryo-Spawners.
+Build Orbital Railgun to launch GPS satellite.
+Buy The Adventures Pack to continue!
+Choose an experiment!
+Press H for Help.
+GPS : Offline.
+Basic Conveyor(Clockwise)
+The same as Basic Conveyors, only prettier.
+Convert a Straight Basic Conveyor into a Corner Conveyor.
+Vulnerable to extreme cold!
+Basic Conveyor(CounterClockwise)
+The same as Basic Conveyors, only prettier.
+Convert a Straight Basic Conveyor into a Corner Conveyor.
+Vulnerable to extreme cold!
+Conveyor(Clockwise)
+The same as Basic Conveyors, only prettier.
+Convert a Straight Conveyor into a Corner Conveyor.
+Vulnerable to extreme cold!
+Conveyor(CounterClockwise)
+The same as Basic Conveyors, only prettier.
+Convert a Straight Conveyor into a Corner Conveyor.
+Vulnerable to extreme cold!
+Chevron Danger
+None
+Use this to mark off dangerous areas.
+Caution : Uses up 1 Constructionpaste!
+Rainbow Anti-Grav Lift
+And UP you GO!
+Slow and efficient vertical transport. Stand in it and press Space.
+Requires the Dapper DLC pack!
+Techno Anti-Grav Lift
+And UP you GO!
+Slow and efficient vertical transport. Stand in it and press Space.
+Requires the Frozen Factory DLC pack!
+Predator Anti-Grav Lift
+And UP you GO!
+Slow and efficient vertical transport. Stand in it and press Space.
+Requires the Adventures DLC pack!
+Basic Conveyor Crafter
+Turns 1 Copper Bar into 15 Basic Conveyors.
+Conveyor-based machine for automatically converting Bars into plates. Does not require external power.
+A useful start when automating
+Conveyor Crafter
+Upcrafts Basic Conveyors into faster Conveyors using Tin Plates and Copper Wire.
+Conveyor-based machine for automatically upcrafting Basic Conveyors into faster Conveyors Belts. This is best configured with 3x hoppers for input, and 1x Conveyor belt for the output.
+Automated Crafting is more efficient than hand-crafting.
+ScrapTrack Crafter
+Builds cheap but slow ScrapTrack.
+Crafts Straight ScrapTracks
+None
+Minecart Track Crafter
+Upcrafts ScrapTrack Rails into into faster Minecart Track Trails.
+Upcrafts Straight Minecart Tracks from older ScrapTracks.
+None
+Gold Foil
+Flattened Piece of Gold Wire
+Flattened Piece of Gold Wire
+Flattened Piece of Gold Wire
+Gold Foil Crafter
+Turns 5 Gold Wire into 1 Gold Foil.
+A machine that supports autocrafting of Gold Wire into useful Gold Foil.
+Don't think about it too much.
+Titanium Housing Crafter
+Turns 6 plates into 1 Housing.
+A machine that supports autocrafting of Titanium Plates into Titanium Machine Housings.
+Much more efficient than doing it by hand!
+Suit Beacon
+Marks the Location of your Death
+Very obvious when dropped. Designed for Boy Scouts in Clumsy Mode.
+#AlwaysBePrepared
+Bulk Gas Freighter
+Small Gasstorage on Wheels
+Fast Freight cart with 500 Gas Capacity.
+Can only carry one kind of gas at once.
+PrecisionAlloyed MachineBlock Assembler
+Uses an alternate method of creating Alloyed Machine Blocks, more useful for certain base setups.
+Crafts Alloyed Blocks from T2 crafting Materials.
+These are used extensively, and it is highly recommended you automate these!
+Left-Ctrl - Super-Building
+Your BuildGun allows you to create straight runs of machines. 
+This technique will make connecting your base up via Conveyor Belts much easier.
+Super-Building a Conveyor touching an existing Conveyor will 'copy' its forward direction.
+Revisit the Video Tutorial on SuperBuild if you get stuck!
+SuperBuild at least {0} more blocks.
+Basic Manufacturing Plants allow automated crafting to complete a manufacturing line.
+Does not support manual crafting.
